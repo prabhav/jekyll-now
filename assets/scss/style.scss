@@ -1,0 +1,423 @@
+// Imports
+@import "normalize";
+@import "settings";
+@import "grid";
+@import "icons/genericons";
+
+// @import "materialize";
+// @import "mixins";
+// @import "variables";
+// @import "form";
+// // @import "buttons";
+// @import "date_picker/default";
+// @import "date_picker/default.date";
+// @import "date_picker/default.time";
+
+html.stupid {
+	border: 20px solid red;
+}
+
+body {
+	background: transparent;
+    // border: 10px solid black;
+	font: {
+		family: $font-body;
+		size: 100%;
+        weight: 300;
+	}
+	color: white;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+
+	// @include mq(small) { font-size: 85%; }
+	// @include mq(large) { font-size: 100%; }
+}
+
+header {
+    background: black;
+	display: flex;
+	// justify-content: center;
+    // position: fixed;
+    z-index: 2;
+    // width: 100%;
+
+    padding: 1rem;
+
+    // top: 0;
+    // left: 50px;
+    // transform: rotate(90deg);
+	// transform-origin: top left;
+
+	// transform: rotate(-90deg) translateX(-50%);
+	// transform: translateX(2rem);
+	// transform-origin: 0 50%;
+	// transform-origin: 50% 50%;
+	// transform: translateX(-500px);
+
+	// @include tablet {
+	@include tablet {
+		width: 100vh;
+		position: fixed;
+		transform: rotate(90deg);
+		transform-origin: top left;
+		padding: 1.75rem;
+		left: 74px;
+		justify-content: space-around;
+		background: transparent;
+	}
+
+    nav {
+        display: flex;
+		// background: green;
+        justify-content: space-around;
+        width: 100%;
+		// transform: rotate(180deg);
+		// width: 100%;
+		// margin: 0 auto;
+		// padding: 5% 0;
+        // background: green;
+
+		@include tablet {
+			width: 40%; // increase if adding more items to nav
+			transform: rotate(180deg);
+		}
+
+		@media (max-height: 400px) {
+			// width: 100%;
+		}
+
+        a {
+            display: flex;
+			// text-decoration: underline;
+			font-size: .925rem;
+			text-transform: lowercase;
+
+			&:hover, &:focus {
+				text-decoration: underline;
+			}
+
+			@include tablet {
+				font-size: 1rem;
+			}
+        }
+    }
+
+}
+
+main {
+    min-height: 100vh;
+    max-height: 100vh;
+	max-width: 100vw;
+
+	overflow: auto;
+	// color: white;
+	// padding: 0.1px;
+    // min-width: 100vh;
+	// padding: 0;
+    // overflow: hidden;
+    // position: relative;
+	// background: wheat;
+
+	// Flex shit
+	// display: flex;
+	// align-items: center;
+	// justify-content: space-around;
+
+	// background: red;
+
+	&.main-section {
+		padding: 0;
+	}
+
+	@include tablet {
+		min-height: 100vh;
+	}
+
+    img {
+        width: 100%;
+        position: absolute;
+        height: 100%;
+		// display: flex;
+        // z-index: -1;
+    }
+
+	.video-container {
+		position: absolute;
+		height: 100%;
+		width: 100%;
+		overflow: hidden;
+
+		video, iframe {
+			// width: 100%;
+			// height: auto;
+			// max-height: 100%;
+
+			min-width: 100%;
+			min-height: 100%;
+			background-size: cover;
+
+	        // position: absolute;
+	        // z-index: 0;
+	    }
+
+		// &.no-videoautoplay {
+		// &.no-videoautoplay {
+		// 	background: url(assets/img/build/lights-still-off.jpg);
+		// 	// background: url(../img/build/mug2.jpg);
+		// 	@extend %full-bg;
+		// }
+		//
+		// video.no-videoautoplay {
+		// 	display: none;
+		// 	border: 50px solid red;
+		// }
+	}
+}
+
+.no-videoautoplay {
+	.video-container {
+		// background: url(../img/build/mug2.jpg);
+		background: url(../img/lights-still-fallback.jpg);
+		opacity: 0.5;
+		@extend %full-bg;
+	}
+
+	video {
+		display: none;
+	}
+}
+
+.main-section .intro {
+	// display: flex;
+	// flex-wrap: wrap;
+	position: absolute;
+	// left: 50px;
+	// z-index: 2;
+	padding: 2rem;
+	width: 100%;
+	// background: black;
+	// color: white;
+
+	@include phone {
+		width: 60%;
+	}
+
+	@include tablet {
+		position: absolute;
+		width: 40%;
+		padding: 4rem 3rem;
+		bottom: 35%;
+		right: 2rem;
+		left: none;
+	}
+
+	@include desktop {
+		width: 30%;
+	}
+
+	// &.filler.zigzag {
+	// 	background: url(../img/zigzag.svg);
+	// 	visibility: visible;
+	// 	background-repeat: repeat-x;
+	// }
+
+	h1 {
+		font-size: 1.25rem;
+		margin-bottom: 1rem;
+		line-height: 1.3333333333;
+	}
+
+	p {
+		margin-bottom: 0;
+		font-size: 1.125rem;
+		line-height: 1.3333333333;
+
+		.dash {
+			letter-spacing: -2.5px;
+		}
+	}
+}
+
+.main-section {
+    // min-height: 100vh;
+    // max-width: 100vw;
+	background: black;
+	overflow: auto;
+	padding: 2rem 3rem;
+	// border-bottom: 1px solid #1c1c1c;
+}
+
+.main-section--feature {
+	// background-position: left top;
+	background-repeat: no-repeat;
+	// min-height: 70vh;
+	// background: red;
+
+	// padding: 4rem 0;
+	padding: 7.5% 0;
+	// padding: 40vh 0;
+	// color: white;
+
+	//
+
+	&:nth-child(odd) {
+		@include phone {
+			background-position: left center;
+		}
+
+		.intro {
+			float: right;
+
+			@include desktop {
+				right: 10%;
+			}
+
+			@media (max-width: 400px) and (orientation: landscape) {
+				right: 0;
+			}
+		}
+	}
+
+	&:nth-child(even) {
+		@include phone {
+			background-position: right center;
+		}
+
+		.intro {
+			float: left;
+
+			@include desktop {
+				left: 10%;
+			}
+
+			@media (max-width: 400px) and (orientation: landscape) {
+				left: 0;
+			}
+		}
+	}
+
+	&--god {
+		background-image: url(../img/screaming-kid.jpg);
+	}
+
+	&--soon {
+		background-image: url(../img/cool-kid.jpg);
+	}
+
+	// Media Queries
+
+	@include phone {
+		// min-height: 100vh;
+	    // max-width: 100vw;
+		// padding: 0 0;
+	}
+
+	@include phone {
+		// background-position: left center;
+	}
+
+	.intro {
+		// border: 2px solid white;
+	}
+
+	background-size: 70% auto;
+	position: relative;
+
+	@include desktop {
+		background-size: 50% auto;
+	}
+
+
+	.intro {
+		background: rgba(black, .5);
+		// background: black;
+		// float: right;
+		width: 80%;
+
+		position: relative;
+		// bottom: -10rem;
+		margin-top: 5rem;
+
+		@include phone {
+			margin-top: 0;
+		}
+
+		// @include tablet {}
+
+		@include desktop {
+			bottom: 20%;
+			// right: 10%;
+			width: 30%;
+			background: transparent;
+			border: 2px solid white;
+		}
+
+		// @media (max-height: 480px) and (max-width: 400px) {
+		@media (max-width: 400px) and (orientation: landscape) {
+			position: static;
+			// right: 0;
+			bottom: 0;
+			width: 100%;
+		}
+
+		// @media (max-height: 360px) {
+		// 	position: static;
+		// 	right: 0;
+		// 	bottom: 0;
+		// 	width: 100%;
+		// }
+
+		@media (max-width: 960px) and (orientation: landscape) {
+			bottom: 0;
+		}
+
+		@media (max-width: 280px) {
+			bottom: 0;
+			position: relative;
+			top: -5rem;
+		}
+
+		p {
+			font-size: 1rem;
+			line-height: 1.45;
+			margin-bottom: 1rem;
+
+			@include tablet {
+				font-size: 1rem;
+				// line-height: 1.3333333;
+			}
+
+			&:last-child {
+				margin-bottom: 0;
+			}
+		}
+
+		.button-container {
+			margin-top: 2rem;
+		}
+
+		.button {
+			margin-top: 2rem;
+			padding: 0.65rem 1rem;
+			background: white;
+			color: black;
+			font-size: 0.9rem;
+			border-radius: 1px;
+		}
+	}
+
+
+}
+
+.main-section--footer {
+	border-top: 1px solid #1f1f1f;
+	// background: #111;
+	padding: 1.5rem;
+	text-align: center;
+	color: #aaa;
+
+	a {
+		// border-bottom: 1px solid #777;
+		// text-decoration: underline;
+	}
+}
