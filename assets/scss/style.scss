@@ -173,8 +173,17 @@ main {
 	border-top: 1px solid #1f1f1f;
 	transition: 0.5s;
 
-	&:nth-of-type(odd) {
+	&:nth-of-type(even) {
 		flex-direction: row-reverse;
+	}
+
+	@include phone {
+		&:nth-of-type(odd) {
+			flex-direction: row-reverse;
+		}
+		&:nth-of-type(even) {
+			flex-direction: row;
+		}
 	}
 
 	&:hover img, &:focus img {
@@ -200,10 +209,6 @@ main {
 		display: flex;
 		justify-content: center;
 		align-items: center;
-
-		&:nth-of-type(even) {
-			order: 1;
-		}
 	}
 
 	.desc {
@@ -428,7 +433,10 @@ main {
 	}
 
 	p {
-		font-size: 1.625rem;
+		font-size: 1.25rem;
+		@include phone {
+			font-size: 1.625rem;
+		}
 	}
 }
 
