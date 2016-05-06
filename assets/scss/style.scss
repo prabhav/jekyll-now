@@ -214,17 +214,38 @@ main {
 
 .main-section--feature {
 	background-repeat: no-repeat;
-	padding: 7.5% 0;
+	padding: 0;
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-items: center;
+
+	&:nth-of-type(odd) {
+		flex-direction: row-reverse;
+	}
 
 	img {
 		width: 50%;
+		max-width: 500px;
+		// max-height: 60vh;
+	}
+
+	.desc-container {
+		width: 50%;
+		// padding: 5% 10%;
+		// border: 2px solid white;
+		flex-grow: 2;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+
+		&:nth-of-type(even) {
+			order: 1;
+		}
 	}
 
 	.desc {
 		width: 50%;
-		padding: 10%;
 	}
 
 	// &:nth-child(odd) {
