@@ -3,7 +3,7 @@ title: Varun Chopra
 url: http://varun.siteleaf.net
 timezone: UTC
 collections:
-  posts:
+  work:
     title: Posts
     output: true
   uploads:
