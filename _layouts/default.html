@@ -6,6 +6,26 @@
     <body>
         {% include header.html %}
 
+        {% if page.url == "/" %}
+            <!-- Hero Video Background -->
+
+            <main class="main-section">
+                <div class="video-container">
+                    <!-- <video autoplay muted class="videoautoplay"> -->
+                    <video autoplay muted poster="{{ site.baseurl }}/assets/img/lights-still-off.jpg">
+                        <source src="{{ site.baseurl }}/assets/img/lights.webm" type="video/webm">
+                        <source src="{{ site.baseurl }}/assets/img/lights.mp4" type="video/mp4">
+                    </video>
+                </div>
+
+                <article class="intro">
+                    <h1>Varun Chopra</h1>
+                    <p>
+                        <span class="dash">&mdash;&mdash;&mdash;</span> &nbsp;is a filmmaker, director and student working &amp; living out of sunny Los Angeles, California.</p>
+                </article>
+            </main>
+        {% endif %}
+
         {{ content }}
 
         <section class="main-section main-section--feature main-section--feature--god">
