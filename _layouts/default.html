@@ -9,10 +9,9 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style.min.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
@@ -29,6 +28,7 @@
           <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
+            <h1>{{ site.baseurl }}</h1>
           </nav>
         </header>
       </div>
@@ -41,11 +41,13 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          
+
         </footer>
       </div>
     </div>
 
     {% include analytics.html %}
+    <script src="http://localhost:35729/livereload.js"></script>
+
   </body>
 </html>

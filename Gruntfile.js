@@ -32,6 +32,15 @@ module.exports = function(grunt) {
         }]
       }
     },
+    shell: {
+      jekyllServe: {
+        command: "jekyll serve --baseurl="
+      },
+      jekyllBuild: {
+        // command: "jekyll build --config _config-dev.yml"
+        command: "jekyll build"
+      }
+    },
     watch: {
       options: {
         livereload: true,
@@ -41,29 +50,29 @@ module.exports = function(grunt) {
         // }
       },
       html_refresh: {
-        files: ['*.html'],
-        // tasks: ['concat', 'uglify'],
+        files: ["*.html", "_includes/*.html", "_layouts/*.html"],
+        tasks: ["shell:jekyllBuild"],
         options: {
             spawn: false,
         },
       },
       scripts: {
         files: ['assets/js/*.js'],
-        tasks: ['concat', 'uglify'],
+        tasks: ['concat', 'uglify', "shell:jekyllBuild"],
         options: {
             spawn: false,
         },
       },
       css: {
         files: ['assets/scss/*.scss'],
-        tasks: ['sass', 'autoprefixer'],
+        tasks: ['sass', 'autoprefixer', "shell:jekyllBuild"],
         options: {
           spawn: false,
         },
       },
       images: {
         files: ['assets/img/*.{png,jpg,jpeg,gif,svg}'],
-        tasks: ['imagemin'],
+        tasks: ['imagemin', "shell:jekyllBuild"],
         options: {
           spawn: false,
         },
@@ -107,11 +116,14 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-contrib-sass');
   grunt.loadNpmTasks('grunt-autoprefixer');
-
   grunt.loadNpmTasks('grunt-contrib-watch');
+  grunt.loadNpmTasks('grunt-shell');
 
+  // Custom task for serving jekyll
+  // to serve jekyll, run  `grunt serve`
+  grunt.registerTask("serve", ["shell:jekyllServe"]);
   // Default task(s).
-  grunt.registerTask('default', ['concat', 'uglify', 'imagemin', 'sass', 'watch']);
+  grunt.registerTask('default', ['concat', 'uglify', 'imagemin', 'sass', "shell:jekyllBuild", 'watch']);
   // grunt.registerTask('default', ['concat', 'uglify', 'sass', 'autoprefixer', 'watch']);
 
 };
