@@ -1,109 +1,12 @@
 <!doctype html>
 <html lang="en" class="no-js videoautoplay">
     <head>
-        <!-- Title block allowing child pages to override -->
-        <title>{{ page.title }} &mdash; {{ site.title }}</title>
-
-        <meta charset="utf-8">
-
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-        <!-- Favicons -->
-
-        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-        <link rel="apple-touch-icon" href="apple-touch-icon.png" />
-        <link rel="apple-touch-icon" sizes="57x57" href="apple-touch-icon-57x57.png" />
-        <link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png" />
-        <link rel="apple-touch-icon" sizes="76x76" href="apple-touch-icon-76x76.png" />
-        <link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png" />
-        <link rel="apple-touch-icon" sizes="120x120" href="apple-touch-icon-120x120.png" />
-        <link rel="apple-touch-icon" sizes="144x144" href="apple-touch-icon-144x144.png" />
-        <link rel="apple-touch-icon" sizes="152x152" href="apple-touch-icon-152x152.png" />
-
-        <!-- Styles -->
-
-        <!-- <link href="assets/css/style.min.css" rel="stylesheet" type="text/css" media="all"/> -->
-        <link href="{{ site.baseurl }}/assets/css/style.min.css" rel="stylesheet" type="text/css" media="all"/>
-
-        <meta name="description" content="" />
-
-        <meta property="og:title" content="" />
-        <meta property="og:description" content="" />
-        <meta property="og:url" content=""/>
-        <meta property="og:site_name" content=""/>
-        <meta property="og:image" content=""/>
-
-        <meta name="twitter:card" content="summary">
-        <meta name="twitter:site" content="">
-        <meta name="twitter:creator" content="">
-        <meta name="twitter:title" content="">
-        <meta name="twitter:description" content="">
-        <meta name="twitter:image" content="">
-
-        {% if page.url == "/" %}
-            <script src="{{ site.baseurl }}/assets/js/modernizr.js"></script>
-
-            <script>
-                Modernizr.on('videoautoplay', function(result) {
-                    if (result) {
-                        // alert("This browser supports shit");
-                    } else {
-                        // alert("This browser sux!");
-                        $('video').remove();
-                    }
-                });
-            </script>
-        {% endif %}
-
+        {% include head.html %}
     </head>
     <body>
+        {% include header.html %}
 
-        <header>
-            <nav>
-                {% for page in site.pages %}
-                    {% if page.url != "/404/" %}
-                    <a href="{{ page.url }}">{{ page.title }}</a>
-                    {% endif %}
-                {% endfor %}
-                {% for collection in site.collections %}
-                    <a href="{{ collection.url }}">{{ collection.title }}</a>
-                {% endfor %}
-            </nav>
-        </header>
-
-        <main class="main-section">
-            <div class="video-container">
-                <!-- <video autoplay muted class="videoautoplay"> -->
-                <video autoplay muted poster="{{ site.baseurl }}/assets/img/lights-still-off.jpg">
-                    <source src="{{ site.baseurl }}/assets/img/lights.webm" type="video/webm">
-                    <source src="{{ site.baseurl }}/assets/img/lights.mp4" type="video/mp4">
-                </video>
-
-                <!-- <iframe src="https://player.vimeo.com/video/164048386?autoplay=1&color=fff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
-            </div>
-
-            <article class="intro">
-                <h1>Varun Chopra</h1>
-                <p>
-                    <span class="dash">&mdash;&mdash;&mdash;</span> &nbsp;is a filmmaker, director and student working &amp; living out of sunny Los Angeles, California.</p>
-            </article>
-
-        </main>
-
-        <!-- <div>
-            <p>sjdoadoasdj</p>
-            <p>sjdoadoasdj</p>
-            <p>sjdoadoasdj</p>
-            <p>sjdoadoasdj</p>
-            <p>sjdoadoasdj</p>
-            <p>sjdoadoasdj</p>
-            <p>sjdoadoasdj</p>
-            <p>sjdoadoasdj</p>
-            <p>sjdoadoasdj</p>
-            <p>sjdoadoasdj</p>
-            <p>sjdoadoasdj</p>
-            <p>sjdoadoasdj</p>
-        </div> -->
+        {{ content }}
 
         <section class="main-section main-section--feature main-section--feature--god">
             <article class="intro">
