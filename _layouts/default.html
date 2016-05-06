@@ -58,9 +58,13 @@
 
         <header>
             <nav>
-                <a href="#">Home</a>
-                <!-- <a href="#">Work</a> -->
-                <a href="#">About</a>
+                <!-- <a href="#">Home</a>
+                 <a href="#">Work</a>
+                <a href="#">About</a> -->
+                {% for page in site.pages %}
+                    {% if page. %}
+                    <a href="{{ page.url }}">{{ page.title }}</a>
+                {% endfor %}
             </nav>
         </header>
 
