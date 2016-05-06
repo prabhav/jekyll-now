@@ -26,9 +26,16 @@
             </main>
         {% endif %}
 
-        {{ content }}
+        {% if page.url != '/' %}
+            <section class="main-section main-section--page-intro">
+                <h1>/{{ page.title }}</h1>
+                <p>
+                    {{ content }}
+                </p>
+            </section>
+        {% endif %}
 
-        {{ page.url }}
+
         {% if page.url == "/work/" %}
             {% for post in site.work %}
                 <section class="main-section main-section--feature">
@@ -45,7 +52,7 @@
                                 <a href="{{ post.url }}" class="button">+ know more</a>
                             </p>
                         </article>
-                    </div>       
+                    </div>
                 </section>
             {% endfor %}
         {% endif %}
