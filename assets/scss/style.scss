@@ -218,6 +218,10 @@ main {
 
 		@include tablet {
 			padding: 3rem;
+			// border: 1px solid white;
+		}
+
+		@include desktop {
 			border: 1px solid white;
 		}
 
@@ -412,7 +416,7 @@ main {
 		&:before {
 			display: inline;
 			position: relative;
-			top: -2px;
+			top: -1px;
 			content: '&mdash&mdash&mdash&nbsp&nbsp';
 			// content: '';
 			width: 100px;
