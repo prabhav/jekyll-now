@@ -110,20 +110,6 @@ main {
 	max-width: 100vw;
 
 	overflow: auto;
-	// color: white;
-	// padding: 0.1px;
-    // min-width: 100vh;
-	// padding: 0;
-    // overflow: hidden;
-    // position: relative;
-	// background: wheat;
-
-	// Flex shit
-	// display: flex;
-	// align-items: center;
-	// justify-content: space-around;
-
-	// background: red;
 
 	&.main-section {
 		padding: 0;
@@ -137,8 +123,6 @@ main {
         width: 100%;
         position: absolute;
         height: 100%;
-		// display: flex;
-        // z-index: -1;
     }
 
 	.video-container {
@@ -148,29 +132,10 @@ main {
 		overflow: hidden;
 
 		video, iframe {
-			// width: 100%;
-			// height: auto;
-			// max-height: 100%;
-
 			min-width: 100%;
 			min-height: 100%;
 			background-size: cover;
-
-	        // position: absolute;
-	        // z-index: 0;
 	    }
-
-		// &.no-videoautoplay {
-		// &.no-videoautoplay {
-		// 	background: url(assets/img/build/lights-still-off.jpg);
-		// 	// background: url(../img/build/mug2.jpg);
-		// 	@extend %full-bg;
-		// }
-		//
-		// video.no-videoautoplay {
-		// 	display: none;
-		// 	border: 50px solid red;
-		// }
 	}
 }
 
@@ -248,53 +213,55 @@ main {
 }
 
 .main-section--feature {
-	// background-position: left top;
 	background-repeat: no-repeat;
-	// min-height: 70vh;
-	// background: red;
-
-	// padding: 4rem 0;
 	padding: 7.5% 0;
-	// padding: 40vh 0;
-	// color: white;
+	display: flex;
+	flex-wrap: wrap;
 
+	img {
+		width: 50%;
+	}
+
+	.desc {
+		width: 50%;
+		padding: 10%;
+	}
+
+	// &:nth-child(odd) {
+	// 	@include phone {
+	// 		background-position: left center;
+	// 	}
 	//
-
-	&:nth-child(odd) {
-		@include phone {
-			background-position: left center;
-		}
-
-		.intro {
-			float: right;
-
-			@include desktop {
-				right: 10%;
-			}
-
-			@media (max-width: 400px) and (orientation: landscape) {
-				right: 0;
-			}
-		}
-	}
-
-	&:nth-child(even) {
-		@include phone {
-			background-position: right center;
-		}
-
-		.intro {
-			float: left;
-
-			@include desktop {
-				left: 10%;
-			}
-
-			@media (max-width: 400px) and (orientation: landscape) {
-				left: 0;
-			}
-		}
-	}
+	// 	.intro {
+	// 		float: right;
+	//
+	// 		@include desktop {
+	// 			right: 10%;
+	// 		}
+	//
+	// 		@media (max-width: 400px) and (orientation: landscape) {
+	// 			right: 0;
+	// 		}
+	// 	}
+	// }
+	//
+	// &:nth-child(even) {
+	// 	@include phone {
+	// 		background-position: right center;
+	// 	}
+	//
+	// 	.intro {
+	// 		float: left;
+	//
+	// 		@include desktop {
+	// 			left: 10%;
+	// 		}
+	//
+	// 		@media (max-width: 400px) and (orientation: landscape) {
+	// 			left: 0;
+	// 		}
+	// 	}
+	// }
 
 	&--god {
 		background-image: url(../img/screaming-kid.jpg);

@@ -28,7 +28,26 @@
 
         {{ content }}
 
-        <section class="main-section main-section--feature main-section--feature--god">
+        {% if page.url == '/work/' %}
+            {% for post in site.work %}
+                <section class="main-section main-section--feature">
+                    <img src="{{ post.image }}" alt="" />
+                    <article class="desc">
+                        <h1>{{ post.title }}</h1>
+                        <p>
+                            <span class="dash">&mdash;&mdash;&mdash;</span> &nbsp; {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+                            <p>
+                            </p>
+                        </p>
+                        <p class="button-container">
+                            <a href="{{ post.url }}" class="button">+ know more</a>
+                        </p>
+                    </article>
+                </section>
+            {% endfor %}
+        {% endif %}
+
+        <!-- <section class="main-section main-section--feature main-section--feature--god">
             <article class="intro">
                 <h1>God on a Leash</h1>
                 <p>
@@ -46,12 +65,11 @@
                 <p>
                     <span class="dash">&mdash;&mdash;&mdash;</span> &nbsp;Two ancestral artforms survive through the veneration of Hanuman, a hindu deity with a monkey face and human body. This is the story of being held on a leash to the hands of faith, heritage and poverty that explores the concept of humanism and divinity.
                 </p>
-                <!-- <a href="#" class="button">+ know more</a> -->
                 <p>
                     <em>Due to release in late Spring.</em>
                 </p>
             </article>
-        </section>
+        </section> -->
 
         <footer class="main-section main-section--footer">
             <small>
