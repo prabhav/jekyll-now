@@ -27,19 +27,21 @@
         {% endif %}
 
         {% if page.url != '/' %}
-            <section class="main-section main-section--page-intro">
-                <h1>/{{ page.title }}</h1>
+            <header class="main-section main-section--page-header">
+                <h1> {{ page.title }}</h1>
                 <p>
                     {{ content }}
                 </p>
-            </section>
+            </header>
         {% endif %}
 
 
         {% if page.url == "/work/" %}
             {% for post in site.work %}
                 <section class="main-section main-section--feature">
-                    <img src="{{ post.image }}" alt="" />
+                    <a href="{{ post.url }}">
+                        <img src="{{ post.image }}" alt="Still from {{ post.title }}" />
+                    </a>
                     <div class="desc-container">
                         <article class="desc">
                             <h1>{{ post.title }}</h1>
