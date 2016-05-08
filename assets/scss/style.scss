@@ -22,6 +22,7 @@ header[role="navigation"] {
 	display: flex;
     z-index: 2;
     padding: 1rem;
+	border-bottom: 1px solid $mellow-border-black;
 
 	@include tablet {
 		width: 100vh;
@@ -172,7 +173,7 @@ main {
 	flex-wrap: wrap;
 	justify-content: flex-start;
 	align-items: center;
-	border-top: 1px solid #1f1f1f;
+	border-top: 1px solid $mellow-border-black;
 	transition: 0.5s;
 
 	&:nth-of-type(even) {
@@ -193,10 +194,15 @@ main {
 	}
 
 	> a {
-		width: 40%;
+		// width: 40%;
 		// max-width: 500px;
 		// max-height: 60vh;
 		overflow: hidden;
+		width: 100%;
+
+		@include phone {
+			width: 40%;
+		}
 
 		img {
 			transition: 2s;
@@ -211,6 +217,7 @@ main {
 		display: flex;
 		justify-content: center;
 		align-items: center;
+		padding: 1.5rem 0;
 	}
 
 	.desc {
@@ -401,10 +408,11 @@ main {
 }
 
 .main-section--page-header {
-	padding: 7.5% 5%;
-	// border-bottom: 1px solid #222;
-	// background: white;
-	// color: black;
+	padding: 10% 5%;
+
+	@include phone {
+		padding: 7.5% 5%;
+	}
 
 	* {
 		@include phone {
@@ -443,7 +451,7 @@ main {
 }
 
 .main-section--footer {
-	border-top: 1px solid #1f1f1f;
+	border-top: 1px solid $mellow-border-black;
 	// background: #111;
 	padding: 1.5rem;
 	text-align: center;
