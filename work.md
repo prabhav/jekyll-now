@@ -2,7 +2,7 @@
 title: Work
 permalink: "/work/"
 intro: A selection of independent films, conceptualized and brought to life by Varun
-  Chopra. <<used meta
+  Chopra. y0l0l0l0l
 layout: default
 ---
 
