@@ -6,4 +6,4 @@ intro: A selection of independent films, conceptualized and brought to life by V
 layout: default
 ---
 
-A selection of independent films, conceptualized and brought to life by Varun Chopra.
+
