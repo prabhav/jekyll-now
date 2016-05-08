@@ -8,6 +8,7 @@ module.exports = function(grunt) {
         src: [
           'assets/js/libs/*.js', // All JS files in libs
           'assets/js/app.js',
+          'assets/js/jquery.fitvids.js',
         //   'assets/js/modernizr.js',
         ],
         dest: 'assets/js/production.js',
@@ -50,7 +51,7 @@ module.exports = function(grunt) {
         // }
       },
       html_refresh: {
-        files: ["*.html", "_includes/*.html", "_layouts/*.html"],
+        files: ["*.html", "*.md", "_includes/*.html", "_layouts/*.html"],
         tasks: ["shell:jekyllBuild"],
         options: {
             spawn: false,
