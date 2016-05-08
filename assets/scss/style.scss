@@ -173,8 +173,12 @@ main {
 	flex-wrap: wrap;
 	justify-content: flex-start;
 	align-items: center;
-	border-top: 1px solid $mellow-border-black;
+	border-bottom: 1px solid $mellow-border-black;
 	transition: 0.5s;
+
+	&:last-of-type {
+		border-bottom: 0;
+	}
 
 	&:nth-of-type(even) {
 		flex-direction: row-reverse;
@@ -409,6 +413,7 @@ main {
 
 .main-section--page-header {
 	padding: 10% 5%;
+	border-bottom: 1px solid $mellow-border-black;
 
 	@include phone {
 		padding: 7.5% 5%;

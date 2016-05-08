@@ -2,8 +2,8 @@
 
 // $blue: #00adef;
 // $orange: #fa5c5c;
-// $yellow: #f1c40f;
-// $red: #f22613;
+$yellow: #f1c40f;
+$red: #f22613;
 // $green: #bada55;
 // $yellow-fast: #fee900;
 $gray: rgb(31, 31, 31);
@@ -100,11 +100,11 @@ $phone-width: 600px;
 }
 
 ::selection {
-	background: #feeba9;
+	background: $red;
 	color: white;
 }
 ::-moz-selection {
-	background: #fff;
+	background: $red;
 	color: white;
 }
 
