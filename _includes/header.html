@@ -16,6 +16,11 @@
                 class="active"
             {% endif %}
         >About</a>
-        <a href="{{ site.baseurl }}/work/">Work</a>
+        <a href="{{ site.baseurl }}/work/"
+            {% if page.url == '/work/' %}
+                class="active"
+            {% endif %}
+        >Work</a>
+        <!-- <a href="{{ site.baseurl }}/work/">Work</a> -->
     </nav>
 </header>
