@@ -24,3 +24,20 @@ defaults:
   values:
     layout: page
 permalink: pretty
+exclude: [
+  .git,
+  .gitignore,
+  .DS_Store,
+  CNAME,
+  # svg-icons,
+  # svg-decorations,
+  # scss,
+  .sass-cache,
+  package.json,
+  Gruntfile.js,
+  node_modules,
+  README.md,
+  Gemfile,
+  Gemfile.lock,
+  LICENSE,
+]
