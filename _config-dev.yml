@@ -1,7 +1,6 @@
 ---
 title: Varun Chopra
 url: http://varun.siteleaf.net
-baseurl: "http://prabhav.github.io/varunchoprafilms.com"
 timezone: UTC
 collections:
   posts:
