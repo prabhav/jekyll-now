@@ -56,10 +56,12 @@ header[role="navigation"] {
 
 			&:hover, &:focus {
 				text-decoration: underline;
+				// text-decoration: line-through;
 			}
 
 			&.active {
 				text-decoration: underline;
+				// text-decoration: line-through;
 			}
 
 			@include tablet {
@@ -421,7 +423,7 @@ main {
 		&:before {
 			display: inline;
 			position: relative;
-			top: -1px;
+			top: -2px;
 			content: '&mdash&mdash&mdash&nbsp&nbsp';
 			// content: '';
 			width: 100px;
