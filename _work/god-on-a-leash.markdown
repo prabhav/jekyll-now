@@ -1,6 +1,6 @@
 ---
 title: God On A Leash
-date: 2016-05-10 06:29:53.742000000 Z
+date: 2016-05-10 06:29:00 Z
 ---
 
 Two ancestral artforms survive through the veneration of Hanuman, a hindu deity with a monkey face and human body. This is the story of being held on a leash to the hands of faith, heritage and poverty that explores the concept of humanism and divinity.
