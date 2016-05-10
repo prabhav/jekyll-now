@@ -19,5 +19,6 @@ His first film&mdash;*God on a Leash*, is selected to be showcased at the [2016 
 - *Paris News*: [Meet the youngest Indian director to crack Cannes 2016](http://www.parisnews.net/index.php/sid/243484889)
 - *DU Beat*: [Ramjas Alunus Becomes The Youngest Indian to Feature at Cannes](http://dubeat.com/2016/04/ramjas-alumni-becomes-the-youngest-indian-to-feature-at-cannes/)
 
+# Contact
 
-<!-- <iframe src="https://player.vimeo.com/video/164217501" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+Shoot me an [email](mailto:varun0693@gmail.com) and say hi!
