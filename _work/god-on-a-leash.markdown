@@ -26,8 +26,6 @@ Dalip is a monkey charmer who belongs to a small community of 'Madaris', an ance
 
 *Or is there really a triumph?*
 
-
-
 # Concept
 
 The film will draw parallels between the life of a captured monkey family, 20 year old Dharmendra, his 15 year old mate Hema and their o spring Isha. They all travel from place to place with their human master Daleep. These animals dress up and perform actions like humans for public amusement. Amidst all the frolic lies the true reality of how they are being mistreated and trained. Their teeth are taken out, they are starved out and are kept in an pathetic state in a flies and mosquito infested area, tied to a rusted iron leash.
@@ -40,3 +38,5 @@ On the other hand, we follow a child from the Behrupiya (impressionist) communit
 
 We followed a Madari, who sat with his macaques and their o spring near a Hanuman temple at North Campus. It seemed the baby’s future in chains was indomitable, much like the o springs of the ancestral impressionists community.It created a cruel euphemism about our ignorance, the way we choose to live our lives, follow our traditions and practice our faith.
 The film is a window to a highly embellished niche world with a contrastingly unembellished human experience.
+
+Keep checking this 
