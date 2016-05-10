@@ -1,8 +1,13 @@
 ---
+<<<<<<< HEAD
 title: God on a Leash
 date: 2016-05-06 02:03:00 Z
 image: "/uploads/screaming-kid-trim.jpg"
 layout: default
+=======
+title: God On A Leash
+date: 2016-05-10 06:28:45.812000000 Z
+>>>>>>> origin/gh-pages
 ---
 
 Two ancestral artforms survive through the veneration of Hanuman, a hindu deity with a monkey face and human body. This is the story of being held on a leash to the hands of faith, heritage and poverty that explores the concept of humanism and divinity.

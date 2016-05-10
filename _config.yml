@@ -14,7 +14,7 @@ collections:
     output: true
 defaults:
 - scope:
-    path: "work"
+    path: work
     type: posts
   values:
     layout: default
@@ -25,9 +25,9 @@ defaults:
   values:
     layout: default
 - scope:
-    path: "" # an empty string here means all files in the project
+    path: ''
   values:
-      layout: "default"
+    layout: default
 baseurl: http://beta.varunchoprafilms.com
 permalink: pretty
 exclude:
