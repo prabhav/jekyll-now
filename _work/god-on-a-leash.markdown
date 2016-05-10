@@ -20,6 +20,8 @@ Dalip is a monkey charmer who belongs to a small community of 'Madaris', an ance
 
 *Or is there really a triumph?*
 
+![screaming-kid.jpg](/uploads/screaming-kid.jpg)
+
 # Concept
 
 The film will draw parallels between the life of a captured monkey family, 20 year old Dharmendra, his 15 year old mate Hema and their o spring Isha. They all travel from place to place with their human master Daleep. These animals dress up and perform actions like humans for public amusement. Amidst all the frolic lies the true reality of how they are being mistreated and trained. Their teeth are taken out, they are starved out and are kept in an pathetic state in a flies and mosquito infested area, tied to a rusted iron leash.
