@@ -40,4 +40,4 @@ On the other hand, we follow a child from the Behrupiya (impressionist) communit
 We followed a Madari, who sat with his macaques and their o spring near a Hanuman temple at North Campus. It seemed the baby’s future in chains was indomitable, much like the o springs of the ancestral impressionists community. It created a cruel euphemism about our ignorance, the way we choose to live our lives, follow our traditions and practice our faith.
 The film is a window to a highly embellished niche world with a contrastingly unembellished human experience.
 
-Keep checking [this space](https://www.facebook.com/godonaleash/) for updates.
+*Keep checking [this space](https://www.facebook.com/godonaleash/) for updates.*
