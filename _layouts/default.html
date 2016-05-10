@@ -41,47 +41,35 @@
             {% if page.title != "Work" %}
             <article class="main-section main-section--page-content">
                 {{ content }}
+                {% if post.slider_image != null %}
+                    <div class="my-slider">
+                    	<ul>
+                            {% for slider_image in slider_images %}
+                    		      <li><img src="{{ slider_image }}" alt="" /></li>
+                            {% endfor %}
+                    	</ul>
+                    </div>
+                {% endif %}
             </article>
             {% endif %}
         {% endif %}
 
         <!-- Work Items -->
         {% if page.url == "/work/" %}
-            {% for post in site.work %}
-                <section class="main-section main-section--feature">
-                    <a href="{{ post.url }}">
-                        <img src="{{ site.baseurl }}{{ post.image }}" alt="Still from {{ post.title }}" />
-                    </a>
-                    <div class="desc-container">
-                        <article class="desc">
-                            <h1>{{ post.title }}</h1>
-                            <p>
-                                <span class="dash">&mdash;&mdash;&mdash;</span> &nbsp;
-                                <!-- {{ post.excerpt | remove: '<p>' | remove: '</p>' }} -->
-                                {{ post.intro }}
-                                <p>
-                                </p>
-                            </p>
-                            <p class="button-container">
-                                <a href="{{ post.url }}" class="button">+ know more</a>
-                            </p>
-                        </article>
-                    </div>
-                </section>
-            {% endfor %}
+            {% include work-items.html %}
         {% endif %}
 
+        <!-- Footer -->
         {% include footer.html %}
 
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
-        <!-- <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script> -->
         {% if page.url != "/" %}
             <script type="text/javascript" src="{{ site.baseurl }}/assets/js/production.min.js"></script>
             <script>
               $(document).ready(function(){
                 // Target your .container, .wrapper, .post, etc.
                 $("iframe").fitVids();
-              });
+                $('.my-slider').unslider();
+    		  });
             </script>
         {% endif %}
         <!-- Typekit Fonts -->

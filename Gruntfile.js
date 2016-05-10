@@ -58,7 +58,7 @@ module.exports = function(grunt) {
         },
       },
       scripts: {
-        files: ['assets/js/*.js'],
+        files: ['assets/js/*.js', 'assets/js/libs/*.js'],
         tasks: ['concat', 'uglify', "shell:jekyllBuild"],
         options: {
             spawn: false,
