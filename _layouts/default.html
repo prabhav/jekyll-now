@@ -30,11 +30,24 @@
             <header class="main-section main-section--page-header">
                 <h1> {{ page.title }}</h1>
                 <p>
-                    {{ page.intro }}
+                    {% if page.intro == null %}
+                        {{ page.excerpt }}
+                    {% else if %}
+                        {{ page.intro }}
+                    {% endif %}
                 </p>
             </header>
-        {% endif %}
 
+            {% if post %}
+                <h1>this is apsokdpasdjpsjapsofjaspofa</h1>
+            {% endif %}
+
+            {% if content != null %}
+            <article class="main-section main-section--page-content">
+                {{ content }}
+            </article>
+            {% endif %}
+        {% endif %}
 
         {% if page.url == "/work/" %}
             {% for post in site.work %}
@@ -57,12 +70,6 @@
                     </div>
                 </section>
             {% endfor %}
-        {% endif %}
-
-        {% if page.url != "/" %}
-            <article class="main-section main-section--page-content">
-                {{ content }}
-            </article>
         {% endif %}
 
         {% include footer.html %}
