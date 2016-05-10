@@ -42,13 +42,18 @@
             {% if page.title != "Work" %}
             <article class="main-section main-section--page-content">
                 {{ content }}
-                    <div class="slider-container">
-                        <ul class="rslides">
-                            {% for image in page.images %}
-                                  <li><img src="{{ image }}" alt="" /></li>
-                            {% endfor %}
-                        </ul>
-                    </div>	
+
+                    {% if page.images != null %}
+                        <!-- Image slider -->
+                        <div class="slider-container">
+                            <ul class="rslides">
+                                {% for image in page.images %}
+                                      <li><img src="{{ image }}" alt="" /></li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    {% endif %}
+
             </article>
             {% endif %}
         {% endif %}
