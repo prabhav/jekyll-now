@@ -8,10 +8,11 @@ intro: Two ancestral artforms survive through the veneration of Hanuman, a hindu
   divinity.
 banner: "/uploads/screaming-kid-trim.jpg"
 images:
-- "/uploads/cool-kid.jpg"
-- "/uploads/mug1.jpg"
-- "/uploads/lights-still-fallback-invert.jpg"
-- "/uploads/IMG_0346.jpg"
+- "/uploads/5.jpg"
+- "/uploads/2.jpg"
+- "/uploads/3.jpg"
+- "/uploads/1.jpg"
+- "/uploads/4.jpg"
 ---
 
 <iframe src="https://player.vimeo.com/video/164217501" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
