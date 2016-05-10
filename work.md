@@ -5,5 +5,3 @@ intro: A selection of independent films, conceptualized and brought to life by V
   Chopra.
 layout: default
 ---
-
-
