@@ -1,7 +1,7 @@
 ---
 title: God On A Leash
 date: 2016-05-10 06:29:00 Z
-position: 1
+position: 0
 image: "/uploads/screaming-kid-trim.jpg"
 ---
 
