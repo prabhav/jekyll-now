@@ -2,10 +2,12 @@
 title: God On A Leash
 date: 2015-05-10 06:29:00 Z
 position: 0
+intro: Two ancestral artforms survive through the veneration of Hanuman, a hindu deity
+  with a monkey face and human body. This is the story of being held on a leash to
+  the hands of faith, heritage and poverty that explores the concept of humanism and
+  divinity.
 image: "/uploads/screaming-kid-trim.jpg"
 ---
-
-Two ancestral artforms survive through the veneration of Hanuman, a hindu deity with a monkey face and human body. This is the story of being held on a leash to the hands of faith, heritage and poverty that explores the concept of humanism and divinity.
 
 # Logline
 
