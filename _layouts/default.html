@@ -6,13 +6,14 @@
     <body>
         {% include header.html %}
 
-        <!-- Hero Video Backgound -->
         {% if page.url == "/" %}
+            <!-- Hero Video Backgound -->
             <main class="main-section">
                 <div class="video-container">
                     <!-- <video autoplay muted class="videoautoplay"> -->
                     <video autoplay muted poster="{{ site.baseurl }}/assets/img/lights-still-off.jpg">
                         <source src="{{ site.baseurl }}/assets/img/lights.mp4" type="video/mp4">
+                        <!-- <source src="{{ site.baseurl }}/assets/img/chair-120.mp4" type="video/mp4"> -->
                         <source src="{{ site.baseurl }}/assets/img/lights.webm" type="video/webm">
                     </video>
                 </div>
@@ -41,18 +42,11 @@
             {% if page.title != "Work" %}
             <article class="main-section main-section--page-content">
                 {{ content }}
-                    <!-- <div class="my-slider">
-                    	<ul>
-                            {% for image in page.images %}
-                    		      <li><img src="{{ image }}" alt="" /></li>
-                            {% endfor %}
-                    	</ul>
-                    </div> -->
-                    	<ul class="rslides">
-                            {% for image in page.images %}
-                    		      <li><img src="{{ image }}" alt="" /></li>
-                            {% endfor %}
-                    	</ul>
+                	<ul class="rslides">
+                        {% for image in page.images %}
+                		      <li><img src="{{ image }}" alt="" /></li>
+                        {% endfor %}
+                	</ul>
             </article>
             {% endif %}
         {% endif %}
