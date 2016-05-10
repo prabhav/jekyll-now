@@ -38,7 +38,7 @@
                 </p>
             </header>
 
-            {% if content != null %}
+            {% if page.title != "Work" %}
             <article class="main-section main-section--page-content">
                 {{ content }}
             </article>
@@ -46,7 +46,7 @@
         {% endif %}
 
         {% if page.url == "/work/" %}
-            {% for post in site.work %}
+            {% for post in site.work | sort: 'date' %}
                 <section class="main-section main-section--feature">
                     <a href="{{ post.url }}">
                         <img src="{{ site.baseurl }}{{ post.image }}" alt="Still from {{ post.title }}" />
