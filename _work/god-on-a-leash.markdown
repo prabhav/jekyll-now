@@ -7,10 +7,6 @@ image: "/uploads/screaming-kid-trim.jpg"
 
 Two ancestral artforms survive through the veneration of Hanuman, a hindu deity with a monkey face and human body. This is the story of being held on a leash to the hands of faith, heritage and poverty that explores the concept of humanism and divinity.
 
-# Logline
-
-Two ancestral artforms survive through the veneration of Hanuman, a hindu deity with a monkey face and human body. This is the story of being held on a leash to the hands of faith, heritage and poverty that explores the concept of humanism and divinity.
-
 # Synopsis
 
 Dalip is a monkey charmer who belongs to a small community of 'Madaris', an ancestral occupation of training monkeys to act like humans. Eleven year old Rohit belongs to a community of 'Behrupiyas', traditional impressionist who train their kids to act like apes. Both these fringe communities survive under abject poverty, tied  rmly to the belief of a hindu mythological deity 'Hanuman:half monkey half human', a symbol of sel ess devotion and strength. Both convene to perform at Hanuman temple. In a role reversal ba le between animal as human and human as animal, who would come out triumphant?
