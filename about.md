@@ -8,14 +8,17 @@ layout: default
 
 ![mug2.jpg](/uploads/mug2.jpg)
 
-Lorem Khaled [Ipsum](#) is a major key to success. Special cloth alert. We don’t see them, we will never see them. You smart, you loyal, you a genius. Find peace, life is like a water fall, you’ve gotta flow. Another one. Always remember in the jungle there’s a lot of they in there, after you overcome they, you will make it to paradise. The key to success is to keep your head above the water, never give up. Fan luv. I’m up to something. Eliptical talk.
+Varun Chopra is a 23 year old filmmaker from New Delhi, India whose passion lies in telling stories about self-effacing human emotions and experiences. His journey started at the prestigious Delhi Public School, Mathura road where he showed early signs of creative skill instating school’s dramatics club -- *Dramatheos* and travelled to Germany for a creative project. Varun, a Mathematics graduate from Delhi University’s Ramjas College was thoroughly involved in Delhi’s Theater circuit and Independent filmmaking during his college years. He has a deep sense of narrative observation and a knack for visually striking cinema. Varun is currently pursuing a Masters degree in Film and Television at the School of Film and Television, [Loyola Marymount University in Los Angeles, California](http://www.lmu.edu/).
 
-# Heading 1
+His first film - *God on a Leash*, is selected to be showcased at the [2016 Cannes Film Festival](http://sub.festival-cannes.fr/SfcCatalogue/MovieDetail/f6d5ff19-78ed-4411-9756-8ae088ce8165)
 
-## Heading 2
+## Press & Interviews
 
-Lorem Khaled Ipsum is a major key to success. Special cloth alert. We don’t see them, we will never see them. You smart, you loyal, you a genius. Find peace, life is like a water fall, you’ve gotta flow. Another one. Always remember in the jungle there’s a lot of they in there, after you overcome they, you will make it to paradise. The key to success is to keep your head above the water, never give up. Fan luv. I’m up to something. Eliptical talk.
+- *News Nation*: [Young Indian director enforces himself with big boys in Cannes](http://www.newsnation.in/article/127759-young-indian-director-enforces-himself-with-big-boys-in-cannes.html)
+- *Business Standard*: [Meet the youngest Indian director to crack Cannes 2016](http://www.business-standard.com/article/news-ani/meet-the-youngest-indian-director-to-crack-cannes-2016-116042500492_1.html)
+- *One Page News*: [Meet the youngest Indian director to crack Cannes 2016](http://www.onenewspage.com/n/Entertainment/759lhubxi/Meet-the-youngest-Indian-director-to-crack-Cannes.htm)
+- *Paris News*: [Meet the youngest Indian director to crack Cannes 2016](http://www.parisnews.net/index.php/sid/243484889)
+- *DU Beat*: [Ramjas Alunus Becomes The Youngest Indian to Feature at Cannes](http://dubeat.com/2016/04/ramjas-alumni-becomes-the-youngest-indian-to-feature-at-cannes/)
 
-<iframe src="https://player.vimeo.com/video/164217501" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-> Someone said something worth quoting
+<!-- <iframe src="https://player.vimeo.com/video/164217501" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
