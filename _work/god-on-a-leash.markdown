@@ -9,7 +9,7 @@ intro: Two ancestral artforms survive through the veneration of Hanuman, a hindu
 banner: "/uploads/screaming-kid-trim.jpg"
 images:
 - "/uploads/5.jpg"
-- "/uploads/2.jpg"
+- "/uploads/2-fa8829.jpg"
 - "/uploads/3.jpg"
 - "/uploads/1.jpg"
 - "/uploads/4.jpg"
