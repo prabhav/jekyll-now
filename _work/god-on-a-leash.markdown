@@ -10,7 +10,7 @@ banner: "/uploads/screaming-kid-trim.jpg"
 images:
 - "/uploads/cool-kid.jpg"
 - "/uploads/mug1.jpg"
-- "/uploads/_uploads/mug2.jpg"
+- "/uploads/lights-still-fallback-invert.jpg"
 ---
 
 <iframe src="https://player.vimeo.com/video/164217501" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
