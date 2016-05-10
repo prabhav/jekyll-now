@@ -41,13 +41,18 @@
             {% if page.title != "Work" %}
             <article class="main-section main-section--page-content">
                 {{ content }}
-                    <div class="my-slider">
+                    <!-- <div class="my-slider">
                     	<ul>
-                            {% for image in post.images %}
+                            {% for image in page.images %}
                     		      <li><img src="{{ image }}" alt="" /></li>
                             {% endfor %}
                     	</ul>
-                    </div>
+                    </div> -->
+                    	<ulc class="rslides">
+                            {% for image in page.images %}
+                    		      <li><img src="{{ image }}" alt="" /></li>
+                            {% endfor %}
+                    	</ul>
             </article>
             {% endif %}
         {% endif %}
@@ -66,6 +71,7 @@
                 // Target your .container, .wrapper, .post, etc.
                 $("iframe").fitVids();
                 $('.my-slider').unslider();
+                $(".rslides").responsiveSlides();
     		  });
             </script>
         {% endif %}
