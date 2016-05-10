@@ -15,7 +15,7 @@ images:
 - "/uploads/4.jpg"
 ---
 
-<iframe src="https://player.vimeo.com/video/164217501" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/164217501?color=fff&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 # Logline
 Two ancestral artforms survive through the veneration of Hanuman, a hindu deity with a monkey face and human body. This is the story of being held on a leash to the hands of faith, heritage and poverty that explores the concept of humanism and divinity.
