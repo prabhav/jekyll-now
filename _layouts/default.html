@@ -6,9 +6,8 @@
     <body>
         {% include header.html %}
 
+        <!-- Hero Video Backgound -->
         {% if page.url == "/" %}
-            <!-- Hero Video Background -->
-
             <main class="main-section">
                 <div class="video-container">
                     <!-- <video autoplay muted class="videoautoplay"> -->
@@ -26,6 +25,7 @@
             </main>
         {% endif %}
 
+        <!-- Generic page contents -->
         {% if page.url != '/' %}
             <header class="main-section main-section--page-header">
                 <h1> {{ page.title }}</h1>
@@ -45,8 +45,9 @@
             {% endif %}
         {% endif %}
 
+        <!-- Work Items -->
         {% if page.url == "/work/" %}
-            {% for post in site.work | sort: 'date' %}
+            {% for post in site.work %}
                 <section class="main-section main-section--feature">
                     <a href="{{ post.url }}">
                         <img src="{{ site.baseurl }}{{ post.image }}" alt="Still from {{ post.title }}" />
