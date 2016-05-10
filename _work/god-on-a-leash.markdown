@@ -6,8 +6,8 @@ intro: Two ancestral artforms survive through the veneration of Hanuman, a hindu
   with a monkey face and human body. This is the story of being held on a leash to
   the hands of faith, heritage and poverty that explores the concept of humanism and
   divinity.
-image: "/uploads/screaming-kid-trim.jpg"
-slider_images:
+banner: "/uploads/screaming-kid-trim.jpg"
+images:
 - "/uploads/cool-kid.jpg"
 - "/uploads/mug1.jpg"
 - "/uploads/_uploads/mug2.jpg"
