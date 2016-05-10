@@ -118,6 +118,7 @@ main {
 		background: url(../img/lights-still-fallback.jpg);
 		opacity: 0.5;
 		@extend %full-bg;
+		background-attachment: scroll !important;
 	}
 
 	video {
