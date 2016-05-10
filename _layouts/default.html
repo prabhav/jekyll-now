@@ -41,16 +41,13 @@
             {% if page.title != "Work" %}
             <article class="main-section main-section--page-content">
                 {{ content }}
-                    {% if post.slider_images != null %}
                     <div class="my-slider">
                     	<ul>
-                            {% for item in post.slider_images %}
-                    		      <li><img src="{{ slider_image }}" alt="" /></li>
+                            {% for image in post.images %}
+                    		      <li><img src="{{ image }}" alt="" /></li>
                             {% endfor %}
                     	</ul>
                     </div>
-                    {{ post.slider_images }}
-                    {% endif %}
             </article>
             {% endif %}
         {% endif %}
