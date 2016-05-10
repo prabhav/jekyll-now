@@ -1,0 +1,158 @@
+
+.main-section--page-header {
+	padding: 10% 5%;
+	border-bottom: 1px solid $mellow-border-black;
+
+	@include phone {
+		padding: 7.5% 5%;
+	}
+
+	* {
+		@include phone {
+			padding-left: 50%;
+		}
+	}
+
+	h1 {
+		font-size: 1rem;
+		text-transform: lowercase;
+		// padding-bottom: 1rem;
+		margin-bottom: 1rem;
+		// display: inline;
+		// border-bottom: 3px solid white;
+
+		&:before {
+			display: inline;
+			position: relative;
+			top: -2px;
+			content: '&mdash&mdash&mdash&nbsp&nbsp';
+			// content: '';
+			width: 100px;
+			height: 1px;
+			background: white;
+			font-size: 5px;
+			margin-right: 0.5rem;
+		}
+	}
+
+	p {
+		font-size: 1.25rem;
+		@include phone {
+			font-size: 1.625rem;
+		}
+	}
+}
+
+
+.main-section--page-content {
+	// display: flex;
+	// justify-content: center;
+	// flex-wrap: wrap;
+
+    > * {
+		max-width: 1000px;
+		width: 100%;
+		margin-bottom: 2rem;
+
+		@include tablet {
+			padding-left: 17.5%;
+
+		}
+	}
+
+	p, ul, ol {
+		font-size: 1.125rem;
+		// line-height: 1.4;
+	}
+
+	h1 {
+		font: {
+			// family: $font-heading;
+			size: 1.75rem;
+			// weight: 700;
+		}
+		// margin: 1.7rem 0;
+
+		&:nth-of-type(1) { margin-top: 0; }
+	}
+
+	h2 {
+		font: {
+			// family: $font-heading;
+			size: 1.5rem;
+		}
+		// margin: 1.7rem 0;
+
+		&:first-child { margin-top: 0; }
+	}
+
+	iframe, img {
+		width: 100%;
+		// max-width: none;
+		// border: 1px dashed white;
+		// text-align: center;
+	}
+
+	blockquote p {
+		border-top: 5px solid white;
+		border-bottom: 5px solid white;
+		padding: 1.5rem;
+		text-align: center;
+	    // margin-left: 0;
+		font: {
+			// family: $font-heading;
+			size: 2rem;
+			// weight: 700;
+		}
+		line-height: 1.4;
+		// margin: 3.5rem auto;
+
+	    &:before {
+	      content: open-quote;
+	    }
+
+	    &:after {
+	      content: close-quote;
+	    }
+
+	    // @include mq(small) {
+	    // 	width: 70%;
+	    // }
+	}
+
+	hr {
+	  	margin: 0 auto;
+	  	text-align: center;
+	  	background: url('../img/white-squiggle.svg') no-repeat center center;
+	  	height: 12px;
+	  	filter: grayscale(1);
+	  	filter: brightness(0.2);
+	  	margin: 2.85rem 0;
+	}
+
+  	pre {
+	  	background: #f5f5f5;
+	  	padding: 1.1rem;
+	  	font: {
+	  		// size: 90%;
+	  	}
+	  	line-height: 1.4;
+	  	margin-bottom: 1.45rem;
+	  	color: #111;
+
+	  	code {
+	        // font-family: $font-monospace;
+	        // font-size: 1.25rem;
+	    }
+	  }
+
+		a {
+			// text-decoration: underline;
+			border-bottom: 1px solid rgba(white, 0.5);
+			transition: 0.25s;
+
+			&:hover, &:focus {
+				color: rgba(white, 0.8);
+			}
+		}
+}
