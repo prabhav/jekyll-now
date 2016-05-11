@@ -47,7 +47,10 @@
 .main-section--page-content {
 
 	p, ul, ol {
-		@include phone {
+		font-size: 1.075rem;
+		line-height: 1.6;
+
+		@include tablet {
 			font-size: 1.125rem;
 		}
 	}
