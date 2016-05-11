@@ -3,14 +3,12 @@
 @import "settings";
 // @import "grid";
 // @import "icons/genericons";
-@import "work"; // Work items list
+@import "works-list"; // Work items list
 @import "generic-page"; // Page headers and generic article content
-@import "slider";
-
+@import "slider"; // Slider
 
 body {
 	background: transparent;
-    // border: 10px solid black;
 	font: {
 		family: $font-body;
 		size: 100%;
@@ -49,24 +47,21 @@ header[role="navigation"] {
 			transform: rotate(180deg);
 		}
 
-		@media (max-height: 400px) {
-			// width: 100%;
+		@media (max-height: 500px) {
+			width: 100%;
 		}
 
         a {
             display: flex;
-			// text-decoration: underline;
 			font-size: .925rem;
 			text-transform: lowercase;
 
 			&:hover, &:focus {
 				text-decoration: underline;
-				// text-decoration: line-through;
 			}
 
 			&.active {
 				text-decoration: underline;
-				// text-decoration: line-through;
 			}
 
 			@include tablet {

@@ -10,10 +10,8 @@
             <!-- Hero Video Backgound -->
             <main class="main-section">
                 <div class="video-container">
-                    <!-- <video autoplay muted class="videoautoplay"> -->
                     <video autoplay muted poster="{{ site.baseurl }}/assets/img/lights-still-off.jpg">
                         <source src="{{ site.baseurl }}/assets/img/lights.mp4" type="video/mp4">
-                        <!-- <source src="{{ site.baseurl }}/assets/img/chair-120.mp4" type="video/mp4"> -->
                         <source src="{{ site.baseurl }}/assets/img/lights.webm" type="video/webm">
                     </video>
                 </div>
@@ -21,13 +19,13 @@
                 <article class="intro">
                     <h1>{{ site.title }}</h1>
                     <p>
-                        <span class="dash">&mdash;&mdash;&mdash;</span> &nbsp; {{ intro }}</p>
+                        <span class="dash">&mdash;&mdash;&mdash;</span> &nbsp; {{ site.intro | remove: 'Varun Chopra'}}</p>
                 </article>
             </main>
-        {% endif %}
 
-        <!-- Generic page contents -->
-        {% if page.url != '/' %}
+            {% else %}
+
+            <!-- Generic page contents -->
             <header class="main-section main-section--page-header">
                 <h1> {{ page.title }}</h1>
                 <p>
@@ -42,24 +40,15 @@
             {% if page.title != "Work" %}
             <article class="main-section main-section--page-content">
                 {{ content }}
-
                     {% if page.images != null %}
-                        <!-- Image slider -->
-                        <div class="slider-container">
-                            <ul class="rslides">
-                                {% for image in page.images %}
-                                      <li><img src="{{ image }}" alt="" /></li>
-                                {% endfor %}
-                            </ul>
-                        </div>
+                        {% include slider.html %}
                     {% endif %}
-
             </article>
             {% endif %}
         {% endif %}
 
         {% if page.url == "/work/" %}
-            {% include work-items.html %}
+            {% include works-list.html %}
         {% endif %}
 
         <!-- Footer -->
@@ -71,8 +60,6 @@
               $(document).ready(function(){
                 // Target your .container, .wrapper, .post, etc.
                 $("iframe").fitVids();
-                $('.my-slider').unslider();
-                // $(".rslides").responsiveSlides();
                 $(".rslides").responsiveSlides({
                   auto: true,             // Boolean: Animate automatically, true or false
                   speed: 500,            // Integer: Speed of the transition, in milliseconds
