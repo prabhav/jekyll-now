@@ -120,9 +120,9 @@ main {
 	.video-container {
 		// background: url(../img/build/mug2.jpg);
 		background: url(../img/lights-still-fallback.jpg);
-		opacity: 0.5;
+		opacity: 0.7;
 		@extend %full-bg;
-		background-attachment: scroll !important;
+		// background-attachment: scroll !important;
 	}
 
 	video {
