@@ -44,3 +44,5 @@ exclude:
 - Gemfile.lock
 - LICENSE
 image: "/uploads/mug1.jpg"
+intro: Varun Chopra is a filmmaker, director and student working &amp; living out
+  of sunny Los Angeles,
