@@ -1,6 +1,5 @@
 ---
 title: Varun Chopra
-url: http://www.varunchoprafilms.com
 timezone: UTC
 collections:
   posts:
@@ -12,22 +11,20 @@ collections:
   work:
     title: Work
     output: true
-    permalink: /work/:path/
 defaults:
 - scope:
-    path: ""
-    type: "work"
-  values:
-    layout: "work"
-- scope:
-    path: ""
+    path: work
     type: posts
   values:
-    layout: "post"
+    layout: default
     permalink: "/posts/:title/"
 - scope:
-    path: ""
-    type: "pages"
+    path: ''
+    type: pages
+  values:
+    layout: default
+- scope:
+    path: ''
   values:
     layout: default
 baseurl: http://varunchoprafilms.com
