@@ -7,6 +7,10 @@
 @import "generic-page"; // Page headers and generic article content
 @import "slider"; // Slider
 
+html, body {
+	min-height: 100%;
+}
+
 body {
 	background: transparent;
 	font: {

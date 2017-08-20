@@ -9,7 +9,7 @@
 	align-items: center;
 
 	@extend %full-bg;
-	// background: url('../img/god-bg.jpg');
+	background: url('../img/god-bg.jpg');
 
 	@include phone {
 		padding: 7.5% 5%;
