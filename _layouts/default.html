@@ -6,46 +6,7 @@
     <body>
         {% include header.html %}
 
-        {% if page.url == "/" %}
-            <!-- Hero Video Backgound -->
-            <main class="main-section">
-                <div class="video-container">
-                    <video autoplay muted poster="{{ site.baseurl }}/assets/img/lights-still-off.jpg">
-                        <source src="{{ site.baseurl }}/assets/img/lights.mp4" type="video/mp4">
-                        <source src="{{ site.baseurl }}/assets/img/lights.webm" type="video/webm">
-                    </video>
-                </div>
-
-                <article class="intro">
-                    <h1>{{ site.title }}</h1>
-                    <p>
-                        <span class="dash">&mdash;&mdash;&mdash;</span> &nbsp; {{ site.intro | remove: 'Varun Chopra'}}</p>
-                </article>
-            </main>
-
-            {% else %}
-
-            <!-- Generic page contents -->
-            <header class="main-section main-section--page-header">
-                <h1> {{ page.title }}</h1>
-                <p>
-                    {% if page.intro == null %}
-                        {{ page.excerpt }}
-                    {% else if %}
-                        {{ page.intro }}
-                    {% endif %}
-                </p>
-            </header>
-
-            {% if page.title != "Work" %}
-            <article class="main-section main-section--page-content">
-                {{ content }}
-                    {% if page.images != null %}
-                        {% include slider.html %}
-                    {% endif %}
-            </article>
-            {% endif %}
-        {% endif %}
+        {{ content }}
 
         {% if page.url == "/work/" %}
             {% include works-list.html %}

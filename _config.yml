@@ -12,20 +12,22 @@ collections:
   work:
     title: Work
     output: true
+    permalink: /work/:path/
 defaults:
 - scope:
-    path: work
+    path: ""
+    type: "work"
+  values:
+    layout: "work"
+- scope:
+    path: ""
     type: posts
   values:
-    layout: default
+    layout: "post"
     permalink: "/posts/:title/"
 - scope:
-    path: ''
-    type: pages
-  values:
-    layout: default
-- scope:
-    path: ''
+    path: ""
+    type: "pages"
   values:
     layout: default
 baseurl: http://varunchoprafilms.com

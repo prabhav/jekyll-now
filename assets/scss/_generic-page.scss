@@ -2,6 +2,14 @@
 .main-section--page-header {
 	padding: 10% 5%;
 	border-bottom: 1px solid $mellow-border-black;
+	min-height: 100vh;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	align-items: center;
+
+	@extend %full-bg;
+	// background: url('../img/god-bg.jpg');
 
 	@include phone {
 		padding: 7.5% 5%;
@@ -9,30 +17,41 @@
 
 	* {
 		@include phone {
-			padding-left: 50%;
+			// padding-left: 50%;
 		}
 	}
 
 	h1 {
-		font-size: 1rem;
-		text-transform: lowercase;
-		// padding-bottom: 1rem;
+		font-family: $font-heading;
+		text-transform: uppercase;
 		margin-bottom: 1rem;
-		// display: inline;
-		// border-bottom: 3px solid white;
+		text-align: center;
 
-		&:before {
-			display: inline;
-			position: relative;
-			top: -2px;
-			content: '&mdash&mdash&mdash&nbsp&nbsp';
-			// content: '';
-			width: 100px;
-			height: 1px;
-			background: white;
-			font-size: 5px;
-			margin-right: 0.5rem;
+		@include phone {
+			font-size: 4.5rem;
 		}
+
+		@include tablet {
+			font-size: 5.5rem;
+		}
+
+		@include desktop {
+			font-size: 7.5rem;
+		}
+
+
+		// &:before {
+		// 	display: inline;
+		// 	position: relative;
+		// 	top: -2px;
+		// 	content: '&mdash&mdash&mdash&nbsp&nbsp';
+		// 	// content: '';
+		// 	width: 100px;
+		// 	height: 1px;
+		// 	background: white;
+		// 	font-size: 5px;
+		// 	margin-right: 0.5rem;
+		// }
 	}
 
 	p {

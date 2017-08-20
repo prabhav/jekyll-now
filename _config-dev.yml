@@ -12,12 +12,22 @@ collections:
     title: Work
     output: true
 defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default"
-
+- scope:
+    path: ""
+    type: "work"
+  values:
+    layout: "work"
+- scope:
+    path: ""
+    type: posts
+  values:
+    layout: "post"
+    permalink: "/posts/:title/"
+- scope:
+    path: ""
+    type: "pages"
+  values:
+    layout: default
 permalink: pretty
 exclude: [
   .git,
