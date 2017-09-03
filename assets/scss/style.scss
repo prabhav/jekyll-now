@@ -1,7 +1,7 @@
 // Imports
 @import "normalize";
 @import "settings";
-// @import "grid";
+@import "grid";
 // @import "icons/genericons";
 @import "works-list"; // Work items list
 @import "generic-page"; // Page headers and generic article content
@@ -12,11 +12,12 @@ html, body {
 }
 
 body {
-	background: transparent;
+	// background: transparent;
+	background: black;
 	font: {
 		family: $font-body;
 		size: 100%;
-        weight: 300;
+        // weight: 300;
 	}
 	color: white;
 	text-rendering: optimizeLegibility;

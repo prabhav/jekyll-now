@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<header class="main-section main-section--page-header"
+{% if page.banner %}style="background-image: url({{ page.banner }})"
+{% endif %}>
+
+<h1>{{ page.title }}</h1>
+<h3>{{ page.subtitle }}</h3>
+
+</header>
+
+<section class="main-section main-section--projects">
+
+    <div class="divider">
+        <span>Independent Films</span>
+    </div>
+
+    {% for post in site.work %}
+        <article
+            {% if post.cover %}style="background-image: url({{ post.cover }})"
+        {% endif %}>
+            <a href="{{ post.url }}">
+                <h1>{{ post.title }}</h1>
+            </a>
+        </article>
+    {% endfor %}
+</section>
+
+<section class="main-section main-section--stills">
+    <div class="divider">
+        <span>Film Still Work</span>
+    </div>
+
+    <section class="stills">
+        {% for still in page.stills %}
+
+            <article>
+                <img src="{{ still.image }}" alt="">
+                <h3 class="details">{{ still.title }}</h3>
+            </article>
+
+        {% endfor %}
+    </section>
+</section>

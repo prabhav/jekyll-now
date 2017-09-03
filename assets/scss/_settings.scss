@@ -13,7 +13,16 @@ $mellow-border-black: #1f1f1f;
 $facebook-blue: #3b5998;
 $twitter-blue: #55acee;
 
-$font-heading: 'HelveticaNeue-CondensedBlack', Abril Fatface, Karla, Abril Fatface, Times, serif;
+@font-face {
+    font-family: 'san_francisco_displayregular';
+    src: url('sf-webfont.woff2') format('woff2'),
+         url('sf-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+$font-heading: 'san_francisco_displayregular',-apple-system,BlinkMacSystemFont,'HelveticaNeue-CondensedBlack', Abril Fatface, Karla, Abril Fatface, Times, serif;
+$font-body: Helvetica Neue, "acumin-pro", -apple-system, BlinkMacSystemFont, Acumin Pro, sans-serif;
 $font-body: Helvetica Neue, "acumin-pro", -apple-system, BlinkMacSystemFont, Acumin Pro, sans-serif;
 // $font-caption: 'Francois One', Franklin Gothic, sans-serif;
 // $font-monospace: 'Source Code Pro', Consolas, monospace;

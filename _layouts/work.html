@@ -6,8 +6,92 @@ layout: default
 {% if page.banner %}style="background-image: url({{ page.banner }})"
 {% endif %}>
 
-<h1>asdasdassdasdasdasdasdsadasas {{ page.title }}</h1>
-
-{{ content }}
+<h1>{{ page.title }}</h1>
 
 </header>
+
+<section class="main-section main-section--page-content">
+
+{% for section in page.sections %}
+    {% if section.type == "video" %}
+        <div class="article-section">
+            {{ section.content }}
+        </div>
+    {% else %}
+        <div class="article-section
+            {% if section.type %} article-section--{{ section.type }} {% endif %}"
+        >
+            {% if section.type == "split" %}
+            <img class="heading" src="{{ section.image }}" alt="">
+            <center><h1>{{ section.title }}</h1></center>
+            <p class="text">
+                {{ section.content }}
+            </p>
+            {% else %}
+
+            <div class="heading"
+                style="background: url('{{ section.image }}');">
+                <h1>{{ section.title }}</h1>
+            </div>
+            <p class="text">
+                {{ section.content }}
+            </p>
+
+            {% endif %}
+
+        </div>
+    {% endif %}
+
+{% endfor %}
+
+    <div class="article-section">
+        {% if page.images %}
+            {% include slider.html %}
+        {% endif %}
+    </div>
+
+<!-- <div class="article-section"> -->
+    {{ content }}
+
+<!-- </div> -->
+
+    <!-- <div class="article-section">
+        <div class="heading"
+            style="background: url('/uploads/god-synopsis.png');">
+            <h1>Synopsis</h1>
+        </div>
+        <p class="text">
+            Dalip is a monkey charmer who belongs to a small community of ‘Madaris’, an ancestral occupation of training monkeys to act like humans. Eleven year old Rohit belongs to a community of ‘Behrupiyas’, traditional impressionist who train their kids to act like apes. Both these fringe communities survive under abject poverty, tied firmly to the belief of a hindu mythological deity ‘Hanuman: Half monkey-half human’, a symbol of selfess devotion and strength. Both convene to perform at Hanuman temple. In a role reversal battle between animal as human and human as animal, who would come out triumphant?
+
+            Or is there really a triumph?
+        </p>
+
+    </div>
+
+    <div class="article-section article-section--big">
+        <div class="heading"
+            style="background: url('/uploads/god-concept.png');">
+            <h1>Concept</h1>
+        </div>
+        <p class="text">
+            Dalip is a monkey charmer who belongs to a small community of ‘Madaris’, an ancestral occupation of training monkeys to act like humans. Eleven year old Rohit belongs to a community of ‘Behrupiyas’, traditional impressionist who train their kids to act like apes. Both these fringe communities survive under abject poverty, tied firmly to the belief of a hindu mythological deity ‘Hanuman: Half monkey-half human’, a symbol of selfess devotion and strength. Both convene to perform at Hanuman temple. In a role reversal battle between animal as human and human as animal, who would come out triumphant?
+
+            Or is there really a triumph?
+        </p>
+
+    </div>
+
+    <div class="article-section article-section--split">
+
+        <img class="heading" src="/uploads/god-director.png" alt="">
+        <center><h1>Director's Statement</h1></center>
+        <p class="text">
+
+            Dalip is a monkey charmer who belongs to a small community of ‘Madaris’, an ancestral occupation of training monkeys to act like humans. Eleven year old Rohit belongs to a community of ‘Behrupiyas’, traditional impressionist who train their kids to act like apes. Both these fringe communities survive under abject poverty, tied firmly to the belief of a hindu mythological deity ‘Hanuman: Half monkey-half human’, a symbol of selfess devotion and strength. Both convene to perform at Hanuman temple. In a role reversal battle between animal as human and human as animal, who would come out triumphant?
+
+            Or is there really a triumph?
+        </p>
+
+    </div> -->
+
+</section>

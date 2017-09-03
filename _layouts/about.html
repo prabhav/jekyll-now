@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<header class="main-section main-section--page-header"
+{% if page.banner %}style="background-image: url({{ page.banner }})"
+{% endif %}>
+
+<h1>{{ page.title }}</h1>
+<h3>{{ page.subtitle }}</h3>
+
+</header>
+
+<section class="main-section main-section--page-content">
+    <section class="article-section article-section--big">
+        <div class="heading"
+            style="background: url('{{ page.image-cover }}');">
+            <h1>{{ page.title-text }}</h1>
+        </div>
+    </section>
+
+        {{ content }}
+
+    {% for story in page.storys %}
+        <section class="article-section--story article-section">
+            <div class="heading"
+                style="background: url('{{ story.image }}');">
+                <h1>{{ story.text }}</h1>
+            </div>
+        </section>
+    {% endfor %}
+
+
+</section>
