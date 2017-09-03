@@ -1,7 +1,7 @@
 ---
 title: I'm Making Some New Shit
-layout: default
 date: 2015-05-10 06:29:00 Z
+layout: default
 ---
 
 # Press

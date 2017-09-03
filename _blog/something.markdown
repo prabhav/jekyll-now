@@ -1,7 +1,7 @@
 ---
 title: I'm Making Some New Shit
-layout: default
 date: 2017-05-10 06:29:00 Z
+layout: default
 intro: Two ancestral artforms survive through the veneration of Hanuman, a hindu deity
   with a monkey face and human body. This is the story of being held on a leash to
   the hands of faith, heritage and poverty that explores the concept of humanism and

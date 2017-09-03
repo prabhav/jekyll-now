@@ -1,9 +1,9 @@
 ---
 title: About
-layout: about
 permalink: "/about/"
-subtitle: Varun Chopra is a filmmaker, director and student working & living out of sunny
-  Los Angeles, California.
+layout: about
+subtitle: Varun Chopra is a filmmaker, director and student working & living out of
+  sunny Los Angeles, California.
 image-cover: "/uploads/god-1.jpg"
 title-text: About Me
 storys:
