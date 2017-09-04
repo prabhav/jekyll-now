@@ -6,8 +6,8 @@ layout: default
 {% if page.banner %}style="background-image: url({{ page.banner }})"
 {% endif %}>
 
-<h1>{{ page.title }}</h1>
-<h3>{{ page.subtitle }}</h3>
+    <h1>{{ page.title }}</h1>
+    <h3>{{ page.subtitle }}</h3>
 
 </header>
 
@@ -29,6 +29,21 @@ layout: default
             </div>
         </section>
     {% endfor %}
+
+    {% if page.socials %}
+
+        <section class="main-section--social main-section">
+            {% for social in page.socials %}
+                <article class="social-link">
+                    <a href="{{ social.url }}" class="url-link">
+                        <img src="{{ social.icon-image }}" alt="">
+                        <span>{{ social.link-name }}</span>
+                    </a>
+                </article>
+            {% endfor %}
+        </section>
+
+    {% endif %}
 
 
 </section>

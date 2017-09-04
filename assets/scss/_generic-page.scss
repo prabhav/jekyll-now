@@ -585,3 +585,49 @@ body { font-family: sans-serif; }
 		}
 	}
 }
+
+.main-section--social {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+
+	a.url-link {
+		border-bottom: 0;
+		display: flex;
+		flex-flow: column wrap;
+		text-align: center;
+	}
+
+	.social-link {
+		width: 100%;
+		// border: 1px solid red;
+		margin-bottom: 1.5rem;
+
+		@include phone {
+			width: 45%;
+		}
+
+		@include tablet {
+			width: 33%;
+		}
+
+		@include desktop {
+			width: 20%;
+		}
+	}
+
+	img {
+		height: 100px;
+		margin: 0 auto 2rem;
+	}
+
+	span {
+		text-align: center;
+	}
+}
+
+.main-section--page-content {
+	.url-link {
+		text-decoration: none;
+	}
+}
