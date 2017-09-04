@@ -376,8 +376,6 @@
 }
 
 .divider {
-
-
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -629,5 +627,26 @@ body { font-family: sans-serif; }
 .main-section--page-content {
 	.url-link {
 		text-decoration: none;
+	}
+}
+
+
+//reel
+
+.reel {
+	width: 100%;
+	// height: auto;
+	// border: 1px solid red;
+
+	@include phone {
+		width: 85%;
+	}
+
+	@include tablet {
+		width: 70%;
+	}
+
+	@include desktop {
+		width: 65%;
 	}
 }
