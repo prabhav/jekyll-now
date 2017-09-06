@@ -16,6 +16,11 @@ collections:
     output: true
 defaults:
 - scope:
+    path: ""
+    type: "work"
+  values:
+    layout: "work"
+- scope:
     path: work
     type: posts
   values:
