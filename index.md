@@ -1,7 +1,6 @@
 ---
 title: Home
-subtitle: Varun Chopra is a filmmaker, director and student working and living out
-  of sunny Los Angeles, California.
+subtitle: Filmmaker, Creative Director crafting ideas in L.A.
 images:
 - photo: "/uploads/5.jpg"
   url: "#"
