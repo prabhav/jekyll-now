@@ -9,6 +9,7 @@ module.exports = function(grunt) {
           'assets/js/libs/*.js', // All JS files in libs
           'assets/js/app.js',
           'assets/js/jquery.fitvids.js',
+          'assets/js/wow.min.js',
         //   'assets/js/modernizr.js',
         ],
         dest: 'assets/js/production.js',
