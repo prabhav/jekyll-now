@@ -20,7 +20,7 @@ storys:
 layout: about
 ---
 
-Varun Chopra is a 23 year old filmmaker from New Delhi, India whose passion lies in telling stories about self-effacing human emotions and experiences. His journey started at the prestigious Delhi Public School, Mathura Road where he showed early signs of creative skill instating school’s dramatics club -- *Dramatheos* and travelled to Germany for a creative project.
+Vvarun Chopra is a 23 year old filmmaker from New Delhi, India whose passion lies in telling stories about self-effacing human emotions and experiences. His journey started at the prestigious Delhi Public School, Mathura Road where he showed early signs of creative skill instating school’s dramatics club -- *Dramatheos* and travelled to Germany for a creative project.
 
 Varun, a Mathematics graduate from Delhi University’s Ramjas College was thoroughly involved in Delhi’s Theater circuit and Independent filmmaking during his college years. He has a deep sense of narrative observation and a knack for visually striking cinema. Varun is currently pursuing a Masters degree in Film and Television at the School of Film and Television, [Loyola Marymount University](http://www.lmu.edu/) in Los Angeles, California.
 
