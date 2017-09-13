@@ -4,7 +4,7 @@ Repo for filmmaker Varun Chopra's portfolio code, based on Jekyll for [Siteleaf 
 
 *This is a fork of Barry Clark's [Jekyll Now Boilerplate](https://github.com/barryclark/jekyll-now)*
 
-##Notes to Self (or whoever wants to mess around)
+## Notes to Self (or whoever wants to mess around)
 
 - To run the site locally, open two terminals side by side running the following (assumning grunt and its packages are already installed):
     1. `grunt` for preprocessing, minification, etc.
