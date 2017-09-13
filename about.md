@@ -5,13 +5,13 @@ subtitle: Here's a primer on me.
 image-cover: "/uploads/god-1.jpg"
 title-text: About Me
 storys:
-- text: This is Who I am
+- text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.   
   image: "/uploads/4.jpg"
-- text: This is Who I am
+- text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
   image: "/uploads/4.jpg"
-- text: This is Who I am
+- text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
   image: "/uploads/god-1.jpg"
-- text: This is Who I am
+- text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
   image: "/uploads/god-1.jpg"
 layout: about
 ---
