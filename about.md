@@ -1,9 +1,7 @@
 ---
 title: About
 permalink: "/about/"
-layout: about
-subtitle: Varun Chopra is a filmmaker, director and student working & living out of
-  sunny Los Angeles, California.
+subtitle: Here's a primer on me.
 image-cover: "/uploads/god-1.jpg"
 title-text: About Me
 storys:
@@ -15,6 +13,7 @@ storys:
   image: "/uploads/god-1.jpg"
 - text: This is Who I am
   image: "/uploads/god-1.jpg"
+layout: about
 ---
 
 Varun Chopra is a 23 year old filmmaker from New Delhi, India whose passion lies in telling stories about self-effacing human emotions and experiences. His journey started at the prestigious Delhi Public School, Mathura Road where he showed early signs of creative skill instating school’s dramatics club -- *Dramatheos* and travelled to Germany for a creative project.
