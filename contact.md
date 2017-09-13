@@ -1,8 +1,7 @@
 ---
 title: Contact
 permalink: "/contact/"
-subtitle: Varun Chopra is a filmmaker, director and student working & living out of
-  sunny Los Angeles, California.
+subtitle: Let's connect!
 image-cover: "/uploads/god-director.png"
 title-text: Reach Out
 socials:
