@@ -6,9 +6,9 @@ image-cover: "/uploads/god-1.jpg"
 title-text: About Me
 storys:
 - text: This is Who I am
-  image: "/uploads/god-1.jpg"
+  image: "/uploads/4.jpg"
 - text: This is Who I am
-  image: "/uploads/god-1.jpg"
+  image: "/uploads/4.jpg"
 - text: This is Who I am
   image: "/uploads/god-1.jpg"
 - text: This is Who I am

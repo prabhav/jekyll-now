@@ -23,10 +23,14 @@ layout: default
 
     {% for story in page.storys %}
         <section class="article-section--story article-section">
-            <div class="heading"
+            <!-- <div class="heading"
                 style="background: url('{{ story.image }}');">
                 <h1>{{ story.text }}</h1>
-            </div>
+
+            </div> -->
+
+            <img src="{{ story.image }}" alt="">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
         </section>
     {% endfor %}
 

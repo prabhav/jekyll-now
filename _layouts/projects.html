@@ -14,7 +14,7 @@ layout: default
 <section class="main-section main-section--projects">
 
     <div class="divider">
-        <span>Independent Film: Recent Projects</span>
+        <span>Recent Projects</span>
     </div>
 
     {% for post in site.work %}
@@ -37,7 +37,7 @@ layout: default
         {% for still in page.stills %}
 
             <article>
-                <img src="{{ still.image }}" alt="">
+                <img src="{{ still.image }}" alt="" class="wow fadeInDown">
                 <h3 class="details">{{ still.title }}</h3>
             </article>
 

@@ -350,7 +350,6 @@
 
 		&--story {
 
-			justify-content: flex-end;
 
 			&:nth-of-type(odd) {
 				flex-direction: row;
@@ -360,16 +359,23 @@
 				flex-direction: row-reverse;
 			}
 
+			width: 100%;
+
+			@include phone {
+				width: 85%;
+			}
+
+			@include tablet {
+				width: 75%;
+			}
+
 			.heading {
-				width: 100%;
 
-				@include phone {
-					width: 85%;
-				}
+			}
 
-				@include tablet {
-					width: 75%;
-				}
+			p {
+				text-align: center;
+				padding: 2rem;
 			}
 		}
 	}
