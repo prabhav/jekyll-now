@@ -1,6 +1,6 @@
 ---
 title: Home
-subtitle: Film Director, Crafting ideas of all shapes and sizes.
+subtitle: Film Director, Crafting ideas in all shapes and sizes.
 images:
 - photo: "/uploads/Screen%20Shot%202017-07-14%20at%207.49.40%20PM%20(2).png"
   url: "#"
