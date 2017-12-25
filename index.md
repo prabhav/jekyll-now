@@ -34,5 +34,20 @@ images:
   text: |
     *Like Never Before*
     ASUS Zenfone 3
+- photo: "/uploads/Screen%20Shot%202017-07-14%20at%207.51.04%20PM%20(2).png"
+  url: 
+  text: The Kite
+- photo: "/uploads/Screen%20Shot%202017-07-17%20at%208.50.49%20PM%20(2).png"
+  url: 
+  text: Rupture
+- photo: "/uploads/1-25cc55.jpg"
+  url: 
+  text: Abandon
+- photo: "/uploads/IMG_0346.jpg"
+  url: 
+  text: God on a Leash
+- photo: "/uploads/Screen%20Shot%202017-07-17%20at%209.00.30%20PM.png"
+  url: 
+  text: Welcome to America
 ---
 
