@@ -8,8 +8,7 @@ intro: Two ancestral artforms survive through the veneration of Hanuman, a hindu
 layout: default
 ---
 
-# ![Untitled design (1).jpg](/uploads/Untitled%20design%20(1).jpg)
-[**SUNDANCE IGNITE FELLOW 2018**]
+# [**SUNDANCE IGNITE FELLOW 2018**]
 (http://http://www.sundance.org/blogs/news/sundance-institute-announces-2018-sundance-ignite-fellows#/)
 
 Excited to be a selected as one of the fifteen Sundance Ignite Fellows 2018. Can't wait to attend Sundance Film Festival in January. 
