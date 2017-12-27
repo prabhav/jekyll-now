@@ -8,12 +8,16 @@ intro: Two ancestral artforms survive through the veneration of Hanuman, a hindu
 layout: default
 ---
 
-# SUNDANCE IGNITE FELLOW 2018
-![Small Design 2.jpg](/uploads/Small%20Design%202.jpg)
+# ![Small Design 2.jpg](/uploads/Small%20Design%202.jpg)
 
-Excited to be a selected as one of the fifteen Sundance Ignite Fellows 2018. Can't wait to attend Sundance Film Festival in January. 
+**Sundance Ignite Fellow 2018**
+Excited to be a selected as one of the fifteen Sundance Institute's Ignite Fellows for the year 2018. Can't wait to attend Sundance Film Festival in January!
+[](http://www.sundance.org/blogs/news/sundance-institute-announces-2018-sundance-ignite-fellows#/)
 
-# VISUAL COMMUNICATION'S AWC FELLOW 2018
- [AWC Fellows 2018](https://www.vconline.org/2018-awc-fellows)
+# ![Untitled design (2).jpg](/uploads/Untitled%20design%20(2).jpg)
 
-The Armed With a Camera (AWC) Fellowship for Emerging Media Artists nurtures the next generation of Asian Pacific American artists to capture their world, surroundings and outlook on life. Visual Communications Media (VC) works with the Fellows for six months and provides special training, mentoring, networking opportunities, access to facilities and equipment, plus a cash stipend to create four to five-minute digital short films. 
+**Armed With a Camera Fellow 2017-18**
+
+Thrilled to be Visual Communication's AWC Fellow for the year 2017-18.
+The Armed With a Camera (AWC) Fellowship for Emerging Media Artists nurtures the next generation of Asian Pacific American artists. Exciting to bring my upcoming project *Wreck It Raj* to the Academy Award Qualifying LAAPF 2018.
+
