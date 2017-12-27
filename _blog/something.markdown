@@ -11,13 +11,15 @@ layout: default
 # ![Small Design 2.jpg](/uploads/Small%20Design%202.jpg)
 
 **Sundance Ignite Fellow 2018**
+
 Excited to be a selected as one of the fifteen Sundance Institute's Ignite Fellows for the year 2018. Can't wait to attend Sundance Film Festival in January!
-[](http://www.sundance.org/blogs/news/sundance-institute-announces-2018-sundance-ignite-fellows#/)
+[Sundance Ignite Fellows](http://www.sundance.org/blogs/news/sundance-institute-announces-2018-sundance-ignite-fellows#/)
 
 # ![Untitled design (2).jpg](/uploads/Untitled%20design%20(2).jpg)
 
 **Armed With a Camera Fellow 2017-18**
 
 Thrilled to be Visual Communication's AWC Fellow for the year 2017-18.
-The Armed With a Camera (AWC) Fellowship for Emerging Media Artists nurtures the next generation of Asian Pacific American artists. Exciting to bring my upcoming project *Wreck It Raj* to the Academy Award Qualifying LAAPF 2018.
+The Armed With a Camera (AWC) Fellowship for Emerging Media Artists nurtures the next generation of Asian Pacific American artists. Getting ready to premiere my upcoming project *Wreck It Raj* to the Academy Award Qualifying LAAPF 2018.
 
+[AWC Fellows](https://www.vconline.org/2018-awc-fellows)
