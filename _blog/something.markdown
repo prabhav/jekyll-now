@@ -9,7 +9,7 @@ layout: default
 ---
 
 # SUNDANCE IGNITE FELLOW 2018
-
+![Small Design 2.jpg](/uploads/Small%20Design%202.jpg)
 
 Excited to be a selected as one of the fifteen Sundance Ignite Fellows 2018. Can't wait to attend Sundance Film Festival in January. 
 
