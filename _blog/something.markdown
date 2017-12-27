@@ -8,14 +8,12 @@ intro: Two ancestral artforms survive through the veneration of Hanuman, a hindu
 layout: default
 ---
 
-# ![SI-Archives3.png](/uploads/SI-Archives3.png) ![logo-p1324-adobe.png](/uploads/logo-p1324-adobe.png)**SUNDANCE IGNITE FELLOW 2018**
+# ![SI-Archives3.png](/uploads/SI-Archives3.png) ![logo-p1324-adobe.png](/uploads/logo-p1324-adobe.png)
 
-[Sundance Institute's Ignite Fellow 2018](http://http://www.sundance.org/blogs/news/sundance-institute-announces-2018-sundance-ignite-fellows#/)
+[**SUNDANCE IGNITE FELLOW 2018**](http://http://www.sundance.org/blogs/news/sundance-institute-announces-2018-sundance-ignite-fellows#/)
 
-Sundance Institute and Adobe Project 1324 announced the newest round of 2018 Sundance Ignite Fellows today, chosen from a global crop of more than 800 applicants.
+Excited to be a selected as one of the fifteen Sundance Ignite Fellows 2018. Can't wait to attend Sundance Film Festival in January. 
 
-“These fifteen remarkable emerging artists are truly on the forefront of what’s next in our culture, and we are thrilled to help them reach the next level with their fresh voices and unique perspectives,” said Meredith Lavitt, Director of Sundance Ignite. “Sundance Ignite fellows aren’t tomorrow’s filmmakers -- they are today’s filmmakers, and we look forward to connecting them to a wealth of opportunities for growth during their year with us.”
+# Visual Communication's Armed With a Camera Fellow  [AWC Fellows 2018](https://www.vconline.org/2018-awc-fellows)
 
-# Visual Communication's Armed With a Camera Fellow  [](https://www.vconline.org/2018-awc-fellows)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Armed With a Camera (AWC) Fellowship for Emerging Media Artists nurtures the next generation of Asian Pacific American artists to capture their world, surroundings and outlook on life. Visual Communications Media (VC) works with the Fellows for six months and provides special training, mentoring, networking opportunities, access to facilities and equipment, plus a cash stipend to create four to five-minute digital short films. 
