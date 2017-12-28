@@ -2,7 +2,7 @@
 title: About
 permalink: "/about/"
 subtitle: Here's a primer on me.
-image-cover: "/uploads/god-1.jpg"
+image-cover: "/uploads/10014898_10205707995973014_5867079679557547781_o.jpg"
 title-text: About Me
 storys:
 - text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
@@ -37,3 +37,4 @@ His first film&mdash;*God on a Leash*, is selected to be showcased at the [2016 
 # Contact
 
 Shoot me an [email](mailto:varun0693@gmail.com) and say hi!
+
