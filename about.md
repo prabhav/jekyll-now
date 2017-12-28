@@ -22,7 +22,7 @@ layout: about
 
 # LIFEMOTO
 > "You miss 100% of the shots you don't take. - Wayne Gretzky"
- - MICHAEL SCOTT 
+ - MICHAEL SCOTT > 
 
 # Press & Interviews
 
