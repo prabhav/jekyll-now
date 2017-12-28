@@ -2,7 +2,7 @@
 title: Contact
 permalink: "/contact/"
 subtitle: Let's connect!
-image-cover: "/uploads/god-director.png"
+image-cover: "/uploads/Screen%20Shot%202017-12-27%20at%209.15.50%20PM.png"
 title-text: Reach Out
 socials:
 - url: http://www.imdb.com/name/nm7022598/?ref_=nv_sr_1
@@ -17,6 +17,9 @@ socials:
 - url: https://vimeo.com/varunchopra
   link-name: Vimeo
   icon-image: "/uploads/vimeo.svg"
+- url: 
+  link-name: 
+  icon-image: 
 layout: about
 ---
 
