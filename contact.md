@@ -17,9 +17,6 @@ socials:
 - url: https://vimeo.com/varunchopra
   link-name: Vimeo
   icon-image: "/uploads/vimeo.svg"
-- url: 
-  link-name: 
-  icon-image: 
 layout: about
 ---
 
