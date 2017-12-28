@@ -25,7 +25,8 @@ Excited to be a selected as one of the fifteen Sundance Institute's Ignite Fello
 **Armed With a Camera Fellow 2017-18**
 
 Thrilled to be Visual Communication's AWC Fellow for the year 2017-18.
-The Armed With a Camera (AWC) Fellowship for Emerging Media Artists nurtures the next generation of Asian Pacific American artists. Getting ready to premiere my upcoming project *Wreck It Raj* to the Academy Award Qualifying LAAPF 2018.
+The Armed With a Camera (AWC) Fellowship for Emerging Media Artists nurtures 
+the next generation of Asian Pacific American artists. Getting ready to premiere my upcoming project *Wreck It Raj* to the Academy Award Qualifying LAAPF 2018.
 
 
 
