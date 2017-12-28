@@ -15,7 +15,7 @@ layout: default
 
 **Sundance Ignite Fellow 2018**
 
-Excited to be a selected as one of the fifteen Sundance Institute's Ignite Fellows for the year 2018. Can't wait to attend Sundance Film Festival in January!
+Excited to be selected as one of the fifteen Sundance Institute's Ignite Fellows for the year 2018. Can't wait to attend Sundance Film Festival in January!
 
 
 [Sundance Ignite Fellows](http://www.sundance.org/blogs/news/sundance-institute-announces-2018-sundance-ignite-fellows#/)
