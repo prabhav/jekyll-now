@@ -26,11 +26,14 @@ layout: about
 
 # Press & Interviews
 
-- *News Nation*: [Young Indian director enforces himself with big boys in Cannes](http://www.newsnation.in/article/127759-young-indian-director-enforces-himself-with-big-boys-in-cannes.html)
-- *Business Standard*: [Meet the youngest Indian director to crack Cannes 2016](http://www.business-standard.com/article/news-ani/meet-the-youngest-indian-director-to-crack-cannes-2016-116042500492_1.html)
-- *One Page News*: [Meet the youngest Indian director to crack Cannes 2016](http://www.onenewspage.com/n/Entertainment/759lhubxi/Meet-the-youngest-Indian-director-to-crack-Cannes.htm)
-- *Paris News*: [Meet the youngest Indian director to crack Cannes 2016](http://www.parisnews.net/index.php/sid/243484889)
-- *DU Beat*: [Ramjas Alunus Becomes The Youngest Indian to Feature at Cannes](http://dubeat.com/2016/04/ramjas-alumni-becomes-the-youngest-indian-to-feature-at-cannes/)
+![51_Outlook.png](/uploads/51_Outlook.png)
+![la-times-logo-transparent.png](/uploads/la-times-logo-transparent.png)
+![TOI.png](/uploads/TOI.png)
+![LMU_LA_logo.png](/uploads/LMU_LA_logo.png)
+![yahoo.png](/uploads/yahoo.png)
+![Film school shorst.png](/uploads/Film%20school%20shorst.png)
+![bs_logo-7678fa077215de67e462cca4764c2d5b4ced5773f878ab7c60391c9e3435c39a.png](/uploads/bs_logo-7678fa077215de67e462cca4764c2d5b4ced5773f878ab7c60391c9e3435c39a.png)
+
 
 # Contact
 
