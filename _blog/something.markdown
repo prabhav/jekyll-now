@@ -34,4 +34,6 @@ the next generation of Asian Pacific American artists. Getting ready to premiere
 
 **The Hollywood Masters Now Streaming on Netflix**
 
-The TV series I worked on as an editor is currently airing it's first season on Netflix. I recently finished Gaffing Season 8 of the show. Hopefully, we'll see all seasons soon!
+The TV series I worked on as an editor is currently airing it's first season on Netflix. I recently finished editing episodes from season 3-4 and worked as a gaffer for the production of Season 8 of the show. Hopefully, we'll see all seasons soon!
+
+['The Hollywood Masters' Set to Stream on Netflix](https://www.hollywoodreporter.com/news/hollywood-masters-set-stream-netflix-1023832)
