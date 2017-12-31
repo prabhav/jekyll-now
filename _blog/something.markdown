@@ -28,6 +28,10 @@ Thrilled to be Visual Communication's AWC Fellow for the year 2017-18.
 The Armed With a Camera (AWC) Fellowship for Emerging Media Artists nurtures 
 the next generation of Asian Pacific American artists. Getting ready to premiere my upcoming project *Wreck It Raj* to the Academy Award Qualifying LAAPF 2018.
 
-
-
 [AWC Fellows](https://www.vconline.org/2018-awc-fellows)
+
+# ![Untitled design (3).jpg](/uploads/Untitled%20design%20(3).jpg)
+
+**The Hollywood Masters Now Streaming on Netflix**
+
+The TV series I worked on as an editor is currently airing it's first season on Netflix. I recently finished Gaffing Season 8 of the show. Hopefully, we'll see all seasons soon!
