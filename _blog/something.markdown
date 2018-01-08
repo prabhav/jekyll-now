@@ -42,4 +42,4 @@ The TV series I worked on as an editor is currently airing it's first season on 
 
 ***Magdali* makes the shortlist**
 
-The screenplay of my next project in development; Magdali makes it to the Quarter finals of the Screencraft's film fund contest. Let's hope for the best at the Semis! 
+The screenplay of my next project in development; *Magdali* makes it to the Quarter finals of the Screencraft's film fund contest. Let's hope for the best at the Semis! 
