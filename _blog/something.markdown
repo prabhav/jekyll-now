@@ -38,6 +38,7 @@ The TV series I worked on as an editor is currently airing it's first season on 
 
 ['The Hollywood Masters' Set to Stream on Netflix](https://www.hollywoodreporter.com/news/hollywood-masters-set-stream-netflix-1023832)
 
+
 ![SCreencraft.jpg](/uploads/SCreencraft.jpg)
 
 ***Magdali* makes the shortlist**
