@@ -40,7 +40,7 @@ The TV series I worked on as an editor is currently airing it's first season on 
 
 
 
-![SCreencraft.jpg](/uploads/SCreencraft.jpg)
+# ![SCreencraft.jpg](/uploads/SCreencraft.jpg)
 
 ***Magdali* makes the shortlist**
 
