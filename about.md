@@ -20,10 +20,10 @@ storys:
 layout: about
 ---
 
-Born and raised in New Delhi, I was surrounded by people and their stories in the densely populated Indian capital. I found my means of expression through street theater, performing AIDS and drug awareness skits in neighborhoods. He survived the academic rigor of a Bachelor’s degree in Mathematics through a creative outlet of directing plays for the stage and short films. He soon, realized his calling and took a leap of faith to study Film Production at LMU School of Film and Television in LA where he focused on writing and directing stories of common people with aspects of social justice. He was the recipient of the SFTV Dean’s Scholarship in 2016.
+Born and raised in New Delhi, Varun Chopra graduated from LMU School of Film and Television in LA where he focused on stories of common people with aspects of social justice. He was the recipient of the SFTV Dean’s Scholarship. At 23, He became the youngest Indian national to screen at Cannes. His films have screened at various International film festivals and screenings. He was recently featured in LA Times among a team of diverse filmmakers on a discussion on diversity in Hollywood. Varun works in LA as a freelance director and is currently editing a TV Show streaming on Netflix. He is one of the seven fellows of Visual Communication's Armed with a Camera fellowship for 2017-18. He was recently selected as a Sundance Ignite Fellow 2018.
 
-At 23, he became the youngest Indian filmmaker to screen work at Cannes. His short films have screened globally and he has crewed on more than 25 award winning productions. He was featured in LA Times among a team of diverse filmmakers on a discussion on diversity in Hollywood. Varun works in LA as a freelance director and is currently editing a TV Show streaming on Netflix.
- 
+
+# ![About Me_Collage.jpg](/uploads/About%20Me_Collage.jpg) 
 
 # Press & Interviews
 
