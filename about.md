@@ -6,7 +6,7 @@ image-cover: "/uploads/Screen%20Shot%202017-12-27%20at%208.28.31%20PM.png"
 title-text: About Me
 storys:
 - text: 
-  image: 
+  image: "/uploads/About%20Me_Collage.jpg"
 - text: 
   image: 
 - text: 
