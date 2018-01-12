@@ -5,18 +5,14 @@ subtitle: Here's a primer on me.
 image-cover: "/uploads/Screen%20Shot%202017-12-27%20at%208.28.31%20PM.png"
 title-text: About Me
 storys:
-- text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-  image: "/uploads/About%20Me_Collage.jpg"
-- text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-  image: "/uploads/4.jpg"
-- text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-  image: "/uploads/god-1.jpg"
-- text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-  image: "/uploads/god-1.jpg"
+- text: 
+  image: 
+- text: 
+  image: 
+- text: 
+  image: 
+- text: 
+  image: 
 layout: about
 ---
 
