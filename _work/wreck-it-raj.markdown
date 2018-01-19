@@ -5,6 +5,14 @@ intro: Two ancestral artforms survive through the veneration of Hanuman, a hindu
   with a monkey face and human body. This is the story of being held on a leash to
   the hands of faith, heritage and poverty that explores the concept of humanism and
   divinity.
+cover: "/uploads/god-cover.png"
+banner: "/uploads/god-bg.jpg"
+images:
+- "/uploads/5.jpg"
+- "/uploads/2-fa8829.jpg"
+- "/uploads/3.jpg"
+- "/uploads/1.jpg"
+- "/uploads/4.jpg"
 ---
 
 
