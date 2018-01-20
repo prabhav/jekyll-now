@@ -6,7 +6,7 @@ intro: Two ancestral artforms survive through the veneration of Hanuman, a hindu
   the hands of faith, heritage and poverty that explores the concept of humanism and
   divinity.
 cover: "/uploads/Gabroo%20Edit%20Timeline.00_12_06_12.Still024.jpg"
-banner: "/uploads/god-bg.jpg"
+banner: "/uploads/Gabroo%20Edit%20Timeline.00_08_28_12.Still032.jpg"
 images:
 - "/uploads/5.jpg"
 - "/uploads/2-fa8829"
