@@ -21,9 +21,7 @@ sections:
     leash to the hands of faith, heritage and poverty that explores the concept of
     humanism and divinity.
   image: "/uploads/god-1.jpg"
-- content: <iframe                      src="https://player.vimeo.com/video/164217501?color=fff&portrait=0"
-    width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen
-    allowfullscreen></iframe>
+- content: 
   type: video
 - title: Synopsis
   content: Dalip is a monkey charmer who belongs to a small community of ‘Madaris’,
