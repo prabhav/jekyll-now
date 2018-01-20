@@ -22,4 +22,4 @@ layout: about
 
 # Contact Me
 
-- Shoot me an [email](mailto:varun0693@gmail.com) and say hi!
+- Shoot me an [email](mailto:varunchoprafilms@gmail.com) and say hi!
