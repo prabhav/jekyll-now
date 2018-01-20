@@ -9,11 +9,11 @@ intro: Two ancestral artforms survive through the veneration of Hanuman, a hindu
 cover: "/uploads/god-cover.png"
 banner: "/uploads/god-bg.jpg"
 images:
-- "/uploads/5.jpg"
-- "/uploads/2-fa8829.jpg"
+- "/uploads/12814469_464834047046737_8111661112687670445_n.jpg"
+- "/uploads/2.jpg"
 - "/uploads/3.jpg"
 - "/uploads/1.jpg"
-- "/uploads/4.jpg"
+- "/uploads/12764876_460988900764585_2553551182647368736_o.jpg"
 sections:
 - title: Logline
   content: Two ancestral artforms survive through the veneration of Hanuman, a hindu
@@ -62,7 +62,6 @@ sections:
   image: "/uploads/god-director.png"
   type: split
 ---
-
 
 
 
