@@ -36,7 +36,7 @@ sections:
     human as animal, who would come out triumphant?
   image: "/uploads/god-synopsis.png"
 - title: Concept
-  content: The film will draw parallels between the life of a captured monkey family,
+  content: The film draws parallels between the life of a captured monkey family,
     20 year old Dharmendra, his 15 year old mate Hema and their offspring Isha. They
     all travel from place to place with their human master Daleep. These animals dress
     up and perform actions like humans for public amusement. Amidst all the frolic
