@@ -5,7 +5,7 @@ intro: Two ancestral artforms survive through the veneration of Hanuman, a hindu
   with a monkey face and human body. This is the story of being held on a leash to
   the hands of faith, heritage and poverty that explores the concept of humanism and
   divinity.
-cover: "/uploads/god-cover.png"
+cover: "/uploads/WreckItRaj_%20Pitch%20Deck%20.001-ce700d.jpeg"
 banner: "/uploads/god-bg.jpg"
 images:
 - "/uploads/5.jpg"
@@ -87,3 +87,4 @@ We followed a Madari, who sat with his macaques and their o spring near a Hanuma
 The film is a window to a highly embellished niche world with a contrastingly unembellished human experience.
 
 *Keep checking [this space](https://www.facebook.com/godonaleash/) for updates.*
+
