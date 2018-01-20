@@ -2,39 +2,36 @@
 title: Abandon
 date: 2015-05-10 06:29:00 Z
 position: 0
-intro: Two ancestral artforms survive through the veneration of Hanuman, a hindu deity
-  with a monkey face and human body. This is the story of being held on a leash to
-  the hands of faith, heritage and poverty that explores the concept of humanism and
-  divinity.
+intro: |-
+  Based on true events that shook California's system of foster care.
+  An atypical story of a defeatist, suicidal teen who finds a friend in an oversexed 9 year old . Together, they go AWOL from the restrains of a group home facility.
 banner: "/uploads/Abandon_1.14.1_1750.jpg"
 cover: "/uploads/Abandon_1.1.1_1250.jpg"
 images:
-- "/uploads/5.jpg"
-- "/uploads/2-fa8829.jpg"
-- "/uploads/3.jpg"
-- "/uploads/1.jpg"
-- "/uploads/4.jpg"
+- "/uploads/21366721_117671082230022_4540054788241555532_o.jpg"
+- "/uploads/21457883_117807198883077_6958031947261218632_o.jpg"
+- "/uploads/21458183_117671645563299_3186568243542110626_o.jpg"
+- "/uploads/21367058_117807032216427_9125780711806176224_o.jpg"
+- "/uploads/21366627_117657272231403_1012254252214190945_o.jpg"
 sections:
 - title: Logline
   content: Two ancestral artforms survive through the veneration of Hanuman, a hindu
     deity with a monkey face and human body. This is the story of being held on a
     leash to the hands of faith, heritage and poverty that explores the concept of
     humanism and divinity.
-  image: "/uploads/god-1.jpg"
-- content: <iframe                      src="https://player.vimeo.com/video/164217501?color=fff&portrait=0"
+  image: "/uploads/21457540_117659642231166_6165012637400717635_o.jpg"
+- content: <iframe                      src="https://player.vimeo.com/video/249123981?color=fff&portrait=0"
     width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen
     allowfullscreen></iframe>
   type: video
 - title: Synopsis
-  content: Dalip is a monkey charmer who belongs to a small community of ‘Madaris’,
-    an ancestral occupation of training monkeys to act like humans. Eleven year old
-    Rohit belongs to a community of ‘Behrupiyas’, traditional impressionist who train
-    their kids to act like apes. Both these fringe communities survive under abject
-    poverty, tied firmly to their belief of a Hindu mythological deity Hanuman, Half
-    monkey-half human’, a symbol of selfless devotion and strength. Both convene to
-    perform at Hanuman temple. In a role reversal battle between animal as human and
-    human as animal, who would come out triumphant?
-  image: "/uploads/god-synopsis.png"
+  content: |
+    A defeatist, suicidal teen AUSTIN feels captured in broad californian daylight in his foster care room at a group home facility for emotionally troubled youth. He is secluded and alone in his first foster home experience that houses dizzying array of troubled teens including his intimidating roommate Matias, a juvenile convict.
+
+    With a sharp Shard of a window glass in his right hand;  Austin attempts to splice his left wrist before he is pinned down by an employee. In the time of dire need of support, Austin meets a wisp of a girl, FAITH. 9 year old going on 18.
+
+    Together, they sneak out to go AWOL from the restraints of the group home. But, the world outside is cruel and they are underprepared. What emerges is a powerful study of the sensibility of at-risk kids confined in a broken system , ostracised by the society.
+  image: "/uploads/Abandon_filmstill_2_HP.jpg"
 - title: Concept
   content: The film will draw parallels between the life of a captured monkey family,
     20 year old Dharmendra, his 15 year old mate Hema and their offspring Isha. They
@@ -52,27 +49,29 @@ sections:
   image: "/uploads/god-concept.png"
   type: big
 - title: Director's Statement
-  content: God on a leash is a short documentary that was shot in my hometown of New
-    Delhi. I was acquainted to this cultural practice at a very young age and through
-    this documentary, I am finally able to unravel the intricacies of this culture.
-    We followed a Madari, who sat with his macaques and their o spring near a Hanuman
-    temple at North Campus. It seemed the baby’s future in chains was indomitable,
-    much like the o springs of the ancestral impressionists community. It created
-    a cruel euphemism about our ignorance, the way we choose to live our lives, follow
-    our traditions and practice our faith. The film is a window to a highly embellished
-    niche world with a contrastingly unembellished human experience.
-  image: "/uploads/god-director.png"
+  content: "Abandon is a sensitive dramatic piece about lives of children with scarred
+    childhood and how they find routes to survive. My association to the cause of
+    childcare can be traced back to volunteering with non profit organizations that
+    relocate abandoned children from Train junctions to group homes. These efforts
+    to save them from delinquency, substance abuse or sex trade often proved futile
+    because of a questionable efficacy of group homes.\n \nThis film is an effort
+    to harness my artistic potential to make a change, to give voice to the mute.
+    In order to be honest in portrayal, me and my team have consulted and collaborated
+    with multiple non profits, children and social workers who have worked in foster
+    care facilities.\n"
+  image: "/uploads/2-a4ea13.jpg"
   type: split
 - title: About the Team
   type: split
   image: "/uploads/god-1.jpg"
   content: some text about the teamh here and there therethere there there there there
     there there there
-- type: video
-  content: <iframe                      src="https://player.vimeo.com/video/164217501?color=fff&portrait=0"
-    width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen
-    allowfullscreen></iframe>
+- type: 
+  content: 
 ---
+
+
+
 
 # Press
 
