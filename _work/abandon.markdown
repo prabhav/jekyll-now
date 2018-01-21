@@ -15,10 +15,9 @@ images:
 - "/uploads/21366627_117657272231403_1012254252214190945_o.jpg"
 sections:
 - title: Logline
-  content: Two ancestral artforms survive through the veneration of Hanuman, a hindu
-    deity with a monkey face and human body. This is the story of being held on a
-    leash to the hands of faith, heritage and poverty that explores the concept of
-    humanism and divinity.
+  content: Based on true events that shook California's system of foster care. An
+    atypical story of a defeatist, suicidal teen who finds a friend in an oversexed
+    9 year old. Together, they go AWOL from the restrains of a group home facility.
   image: "/uploads/21457540_117659642231166_6165012637400717635_o.jpg"
 - content: <iframe                      src="https://player.vimeo.com/video/249123981?color=fff&portrait=0"
     width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen
@@ -26,11 +25,9 @@ sections:
   type: video
 - title: Synopsis
   content: |
-    A defeatist, suicidal teen AUSTIN feels captured in broad californian daylight in his foster care room at a group home facility for emotionally troubled youth. He is secluded and alone in his first foster home experience that houses dizzying array of troubled teens including his intimidating roommate Matias, a juvenile convict.
+    Secluded in a group home for troubled teens, Austin attempts to splice his left wrist before he is pinned down by an employee. In the time of dire support, Austin meets a wisp of a girl - Faith.
 
-    With a sharp Shard of a window glass in his right hand;  Austin attempts to splice his left wrist before he is pinned down by an employee. In the time of dire need of support, Austin meets a wisp of a girl, FAITH. 9 year old going on 18.
-
-    Together, they sneak out to go AWOL from the restraints of the group home. But, the world outside is cruel and they are underprepared. What emerges is a powerful study of the sensibility of at-risk kids confined in a broken system , ostracised by the society.
+    Together, they sneak out to go AWOL from the restraints of the group home. But, the world outside is cruel and they are underprepared. What emerges is a powerful study of the sensibility of at-risk kids confined in a broken system , ostracized by the society.
   image: "/uploads/Abandon_filmstill_2_HP.jpg"
 - title: Concept
   content: The film will draw parallels between the life of a captured monkey family,
