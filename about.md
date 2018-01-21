@@ -22,13 +22,16 @@ Born and raised in New Delhi, Varun Chopra graduated from LMU School of Film and
 
 # Press & Interviews
 
-![51_Outlook.png](/uploads/51_Outlook.png)
-![la-times-logo-transparent.png](/uploads/la-times-logo-transparent.png)
-![TOI.png](/uploads/TOI.png)
-![LMU_LA_logo.png](/uploads/LMU_LA_logo.png)
-![yahoo.png](/uploads/yahoo.png)
-![Film school shorst.png](/uploads/Film%20school%20shorst.png)
-![bs_logo-7678fa077215de67e462cca4764c2d5b4ced5773f878ab7c60391c9e3435c39a.png](/uploads/bs_logo-7678fa077215de67e462cca4764c2d5b4ced5773f878ab7c60391c9e3435c39a.png)
+![51_Outlook.png](/uploads/outlook1.png)
+![la-times-logo-transparent.png](/uploads/LATIMES1.png)
+![TOI.png](/uploads/TOI1.png)
+![LMU_LA_logo.png](/uploads/LMULA1.png)
+![yahoo.png](/uploads/yahoo1.png)
+![Film school shorst.png](/uploads/FSS1.png)
+![bs_logo-7678fa077215de67e462cca4764c2d5b4ced5773f878ab7c60391c9e3435c39a.png](/uploads/BS1.png)
+![pioneer.png](/uploads/pioneer1.png)
+![ani.png](/uploads/ani1.png)
+
 
 
 # Contact
