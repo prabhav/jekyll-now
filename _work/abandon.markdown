@@ -46,7 +46,7 @@ sections:
     suffers with the lack of education and the coming generation is forced to be in
     the state of poverty due to lack of an alternate skill. Without a proper rehabilitation,
     they would continue to be in the chains of poverty.
-  image: "/uploads/god-concept.png"
+  image: "/uploads/21427422_117657392231391_7785146438517999373_o.jpg"
   type: big
 - title: Director's Statement
   content: "Abandon is a sensitive dramatic piece about lives of children with scarred
@@ -61,15 +61,13 @@ sections:
     care facilities.\n"
   image: "/uploads/2-a4ea13.jpg"
   type: split
-- title: About the Team
+- title: 
   type: split
-  image: "/uploads/god-1.jpg"
-  content: some text about the teamh here and there therethere there there there there
-    there there there
+  image: "/uploads/"
+  content: 
 - type: 
   content: 
 ---
-
 
 
 
