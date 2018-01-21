@@ -27,7 +27,7 @@ sections:
   content: |
     Secluded in a group home for troubled teens, Austin attempts to splice his left wrist before he is pinned down by an employee. In the time of dire support, Austin meets a wisp of a girl - Faith.
 
-    Together, they sneak out to go AWOL from the restraints of the group home. But, the world outside is cruel and they are underprepared. What emerges is a powerful study of the sensibility of at-risk kids confined in a broken system , ostracized by the society.
+    Together, they sneak out to go AWOL from the restraints of the group home. But, the world outside is cruel and they are underprepared. What emerges is a powerful study of the sensibility of at-risk kids confined in a broken system, ostracized by the society.
   image: "/uploads/Abandon_filmstill_2_HP.jpg"
 - title: Concept
   content: The film will draw parallels between the life of a captured monkey family,
