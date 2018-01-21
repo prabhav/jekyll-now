@@ -29,20 +29,21 @@ sections:
 
     Together, they sneak out to go AWOL from the restraints of the group home. But, the world outside is cruel and much different from what they imagined. What emerges is a powerful study of the sensibility of at-risk kids confined in a broken system, ostracized by the society.
   image: "/uploads/Abandon_filmstill_2_HP.jpg"
-- title: Concept
-  content: The film will draw parallels between the life of a captured monkey family,
-    20 year old Dharmendra, his 15 year old mate Hema and their offspring Isha. They
-    all travel from place to place with their human master Daleep. These animals dress
-    up and perform actions like humans for public amusement. Amidst all the frolic
-    lies the true reality of how they are being mistreated and trained. Their teeth
-    are taken out, they are starved out and are kept in an pathetic state in a flies
-    and mosquito infested area, tied to a rusted iron leash. On the other hand, we
-    follow a child from the Behrupiya (impressionist) community who dresses up like
-    a monkey and mimics the animal for public entertainment. The impressionist community
-    is in a dire state of being, safeguarding a thousand year old artform. The community
-    suffers with the lack of education and the coming generation is forced to be in
-    the state of poverty due to lack of an alternate skill. Without a proper rehabilitation,
-    they would continue to be in the chains of poverty.
+- title: Background
+  content: "On a June morning of 2013, a calm neighborhood in Davis, California woke
+    up to the sirens of police cars searching and detaining escaped children from
+    a local park. Kids as young as 9 had gone awol from a group home facility.\n\nDavis
+    descends into chaos when it was discovered that the children left the campus for
+    days at a time, often in large groups. Sexual assault allegations were unearthed.
+    Two boys were arrested that day for raping an 11-year-old girl. \n\nFrom the group
+    home, the calls for help came day and night from the group home for troubled children
+    in Davis, California. Dozens a day – to the police, to state authorities, the
+    unending pleas chronicling sexual assaults and suicide tries, runaways and random
+    violence. Children were conveniently  vilified in the public eye but there was
+    no denying that a rescue was mounted too late, and the disaster in Davis to this
+    day haunts those it touched.\n\nGroup homes have increasingly been deemed a failed
+    model, yet year after year vulnerable and volatile children remain housed in them
+    for lack of a better option."
   image: "/uploads/21427422_117657392231391_7785146438517999373_o.jpg"
   type: big
 - title: Director's Statement
