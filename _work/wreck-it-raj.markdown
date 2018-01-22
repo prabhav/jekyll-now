@@ -1,7 +1,9 @@
 ---
 title: Wreck it Raj
 date: 2017-12-23 19:07:00 Z
-intro: 
+intro: "Rajdeep , 12  is furious. \nWith a swing of his cricket bat - he smashes the
+  windows of his classmate, Kiana’s  house.\L\nShe’s saucy, kinda hep, way out of
+  his league and kinda deserved it. "
 cover: "/uploads/WreckItRaj_%20Pitch%20Deck%20.001-ce700d.jpeg"
 banner: "/uploads/WreckItRaj_%20Pitch%20Deck%20.005.jpeg"
 images:
@@ -12,36 +14,18 @@ images:
 - "/uploads/"
 sections:
 - title: Logline
-  content: Two ancestral artforms survive through the veneration of Hanuman, a hindu
-    deity with a monkey face and human body. This is the story of being held on a
-    leash to the hands of faith, heritage and poverty that explores the concept of
-    humanism and divinity.
+  content: A preteen's perspective of growing up weird and ethnically different in
+    suburban America.
   image: "/uploads/WreckItRaj_%20Pitch%20Deck%20.005.jpeg"
 - content: 
   type: 
 - title: Synopsis
-  content: Once upon a time, in a far away swamp, there lived an ogre named Shrek
-    (Mike Myers) whose precious solitude is suddenly shattered by an invasion of annoying
-    fairy tale characters. They were all banished from their kingdom by the evil Lord
-    Farquaad (John Lithgow). Determined to save their home -- not to mention his --
-    Shrek cuts a deal with Farquaad and sets out to rescue Princess Fiona (Cameron
-    Diaz) to be Farquaad's bride. Rescuing the Princess may be small compared to her
-    deep, dark secret.
+  content: 
   image: "/uploads/god-synopsis.png"
 - title: Concept
-  content: The film will draw parallels between the life of a captured monkey family,
-    20 year old Dharmendra, his 15 year old mate Hema and their offspring Isha. They
-    all travel from place to place with their human master Daleep. These animals dress
-    up and perform actions like humans for public amusement. Amidst all the frolic
-    lies the true reality of how they are being mistreated and trained. Their teeth
-    are taken out, they are starved out and are kept in an pathetic state in a flies
-    and mosquito infested area, tied to a rusted iron leash. On the other hand, we
-    follow a child from the Behrupiya (impressionist) community who dresses up like
-    a monkey and mimics the animal for public entertainment. The impressionist community
-    is in a dire state of being, safeguarding a thousand year old artform. The community
-    suffers with the lack of education and the coming generation is forced to be in
-    the state of poverty due to lack of an alternate skill. Without a proper rehabilitation,
-    they would continue to be in the chains of poverty.
+  content: "In 2015, a sikh boy recorded himself facing racist bullies and went viral.\nIt
+    reinstated how tough it is for kids who grow up with a cultural distinction. \L\LThis
+    film attempts to imagine an aftermath of the situation and puts a spin on it."
   image: "/uploads/god-concept.png"
   type: big
 - title: Director's Statement
