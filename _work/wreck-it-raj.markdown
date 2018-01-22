@@ -16,17 +16,17 @@ sections:
 - title: Logline
   content: A preteen's perspective of growing up weird and ethnically different in
     suburban America.
-  image: "/uploads/WreckItRaj_%20Pitch%20Deck%20.005.jpeg"
+  image: "/uploads/2.001.jpeg"
 - content: 
   type: 
 - title: Synopsis
   content: 
-  image: "/uploads/god-synopsis.png"
+  image: "/uploads/1.001.jpeg"
 - title: Concept
   content: "In 2015, a sikh boy recorded himself facing racist bullies and went viral.\nIt
     reinstated how tough it is for kids who grow up with a cultural distinction. \L\LThis
     film attempts to imagine an aftermath of the situation and puts a spin on it."
-  image: "/uploads/god-concept.png"
+  image: "/uploads/WreckItRaj_%20Pitch%20Deck%20.001.jpeg"
   type: big
 - title: Director's Statement
   content: God on a leash is a short documentary that was shot in my hometown of New
@@ -41,6 +41,5 @@ sections:
   image: "/uploads/god-director.png"
   type: split
 ---
-
 
 
