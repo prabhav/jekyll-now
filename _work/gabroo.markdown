@@ -19,7 +19,7 @@ sections:
     deity with a monkey face and human body. This is the story of being held on a
     leash to the hands of faith, heritage and poverty that explores the concept of
     humanism and divinity.
-  image: "/uploads/god-1.jpg"
+  image: "/uploads/8HT02.mov.04_38_32_00.Still001.jpg"
 - content: <iframe                      src="https://player.vimeo.com/video/164217501?color=fff&portrait=0"
     width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen
     allowfullscreen></iframe>
@@ -32,7 +32,7 @@ sections:
     Shrek cuts a deal with Farquaad and sets out to rescue Princess Fiona (Cameron
     Diaz) to be Farquaad's bride. Rescuing the Princess may be small compared to her
     deep, dark secret.
-  image: "/uploads/god-synopsis.png"
+  image: "/uploads/Gabroo%20Edit%20Timeline.00_08_24_08.Still017.jpg"
 - title: Concept
   content: The film will draw parallels between the life of a captured monkey family,
     20 year old Dharmendra, his 15 year old mate Hema and their offspring Isha. They
@@ -62,6 +62,7 @@ sections:
   image: "/uploads/god-director.png"
   type: split
 ---
+
 
 
 <iframe src="https://player.vimeo.com/video/164217501?color=fff&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
