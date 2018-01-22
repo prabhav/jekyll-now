@@ -18,10 +18,8 @@ sections:
   content: 'Gabroo is a whimsical, semi-musical story of an entire community told
     through the eyes of two first generation Sikh-American teenagers. '
   image: "/uploads/8HT02.mov.04_38_32_00.Still001.jpg"
-- content: <iframe                      src="https://player.vimeo.com/video/164217501?color=fff&portrait=0"
-    width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen
-    allowfullscreen></iframe>
-  title: video
+- content: 
+  title: 
 - title: Synopsis
   content: 'Monty and Sunny are talented high school kids are trying to break into
     the big bad world of internet V-logging. Monty tries to come up with unique ideas
