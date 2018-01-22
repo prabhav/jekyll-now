@@ -20,7 +20,12 @@ sections:
 - content: 
   type: 
 - title: Synopsis
-  content: 
+  content: "A vacant window pane provides a view of a suburban household with luscious
+    green landscape. \nCrunching of gravel under approaching footsteps. The bare frame
+    fills up with the outline of RAJDEEP, 11, a sikh kid in bright clothes and a green
+    turban. He cradles a cricket bat on his shoulders as he keenly\nobserves the glass
+    in front of him. After some careful\nconsideration and calculation, he takes his
+    bat off his shoulder and then takes a step back.\n\nBANG!"
   image: "/uploads/1.001.jpeg"
 - title: Concept
   content: "In 2015, a sikh boy recorded himself facing racist bullies and went viral.\nIt
@@ -28,17 +33,9 @@ sections:
     film attempts to imagine an aftermath of the situation and puts a spin on it."
   image: "/uploads/WreckItRaj_%20Pitch%20Deck%20.001.jpeg"
   type: big
-- title: Director's Statement
-  content: God on a leash is a short documentary that was shot in my hometown of New
-    Delhi. I was acquainted to this cultural practice at a very young age and through
-    this documentary, I am finally able to unravel the intricacies of this culture.
-    We followed a Madari, who sat with his macaques and their o spring near a Hanuman
-    temple at North Campus. It seemed the baby’s future in chains was indomitable,
-    much like the o springs of the ancestral impressionists community. It created
-    a cruel euphemism about our ignorance, the way we choose to live our lives, follow
-    our traditions and practice our faith. The film is a window to a highly embellished
-    niche world with a contrastingly unembellished human experience.
-  image: "/uploads/god-director.png"
+- title: 
+  content: 
+  image: "/uploads/"
   type: split
 ---
 
