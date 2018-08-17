@@ -39,4 +39,3 @@ sections:
   type: split
 ---
 
-
