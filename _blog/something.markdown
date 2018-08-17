@@ -26,7 +26,7 @@ layout: default
 
 # ![Untitled design (3).jpg](/uploads/Untitled%20design%20(3).jpg)
 
-** Editor @ The Hollywood Masters Now Streaming on Netflix**
+**Editor @ The Hollywood Masters Now Streaming on Netflix**
 
 ['The Hollywood Masters' Set to Stream on Netflix](https://www.hollywoodreporter.com/news/hollywood-masters-set-stream-netflix-1023832)
 
