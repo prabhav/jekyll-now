@@ -63,5 +63,3 @@ sections:
   type: split
 ---
 
-
-

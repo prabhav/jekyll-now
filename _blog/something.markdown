@@ -8,9 +8,6 @@ intro: Two ancestral artforms survive through the veneration of Hanuman, a hindu
 layout: default
 ---
 
-
-
-
 # ![Small Design 2.jpg](/uploads/Small%20Design%202.jpg)
 
 **Sundance Ignite Fellow 2018**

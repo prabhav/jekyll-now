@@ -43,5 +43,3 @@ sections:
   type: 
 ---
 
-
-
