@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: "/about/"
-subtitle: Here's a primer on me.
+subtitle: 
 image-cover: "/uploads/Screen%20Shot%202017-12-27%20at%208.28.31%20PM.png"
 title-text: About Me
 storys:
