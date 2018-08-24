@@ -20,7 +20,7 @@ sections:
     deity with a monkey face and human body. This is the story of being held on a
     leash to the hands of faith, heritage and poverty that explores the concept of
     humanism and divinity.
-  image: "/uploads/god-1.jpg"
+  image: "/uploads/Screen%20RecordingEDIT_GodOnALeash_Adobe1324.00_01_53_17.Still002.jpg"
 - content: 
   type: video
 - title: Synopsis
