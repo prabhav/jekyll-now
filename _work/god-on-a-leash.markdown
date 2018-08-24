@@ -9,9 +9,9 @@ intro: Two ancestral artforms survive through the veneration of Hanuman, a hindu
 cover: "/uploads/god-cover.png"
 banner: "/uploads/god-bg.jpg"
 images:
-- "/uploads/12814469_464834047046737_8111661112687670445_n.jpg"
+- "/uploads/Screen%20RecordingEDIT_GodOnALeash_Adobe1324.00_01_53_17.Still002.jpg"
 - "/uploads/2.jpg"
-- "/uploads/3.jpg"
+- "/uploads/12814469_464834047046737_8111661112687670445_n.jpg"
 - "/uploads/1.jpg"
 - "/uploads/12764876_460988900764585_2553551182647368736_o.jpg"
 sections:
@@ -20,7 +20,7 @@ sections:
     deity with a monkey face and human body. This is the story of being held on a
     leash to the hands of faith, heritage and poverty that explores the concept of
     humanism and divinity.
-  image: "/uploads/Screen%20RecordingEDIT_GodOnALeash_Adobe1324.00_01_53_17.Still002.jpg"
+  image: "/uploads/screaming-kid.jpg"
 - content: 
   type: video
 - title: Synopsis
