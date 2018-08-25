@@ -24,6 +24,12 @@ layout: default
 
 **2018-19 Incubator Lab Fellow**  
 
+# ![Untitled design (2)-0dae19.jpg](/uploads/Untitled%20design%20(2)-0dae19.jpg)
+
+**Find my tips on Adobe Blog**
+
+[5 Essential Editing Tips for emerging filmmakers](https://theblog.adobe.com/5-essential-editing-tips-emerging-filmmakers/)
+
 # ![Untitled design (3).jpg](/uploads/Untitled%20design%20(3).jpg)
 
 **Editor @ The Hollywood Masters Now Streaming on Netflix**
