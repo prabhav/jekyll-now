@@ -17,7 +17,7 @@ sections:
   content: An ancestral artform survives through the veneration of Hanuman, a hindu
     deity with a monkey face and human body.
   image: "/uploads/screaming-kid.jpg"
-- content: https://vimeo.com/300574303
+- content: 
   type: video
 - title: Synopsis
   content: " Eleven year old Rohit belongs to a community of ‘Behrupiyas’, traditional
