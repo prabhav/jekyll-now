@@ -2,10 +2,8 @@
 title: God On A Leash
 date: 2015-05-10 06:29:00 Z
 position: 0
-intro: Two ancestral artforms survive through the veneration of Hanuman, a hindu deity
-  with a monkey face and human body. This is the story of being held on a leash to
-  the hands of faith, heritage and poverty that explores the concept of humanism and
-  divinity.
+intro: An ancestral artform survives through the veneration of Hanuman, a hindu deity
+  with a monkey face and human body.
 cover: "/uploads/god-cover.png"
 banner: "/uploads/god-bg.jpg"
 images:
@@ -16,49 +14,47 @@ images:
 - "/uploads/12764876_460988900764585_2553551182647368736_o.jpg"
 sections:
 - title: Logline
-  content: Two ancestral artforms survive through the veneration of Hanuman, a hindu
-    deity with a monkey face and human body. This is the story of being held on a
-    leash to the hands of faith, heritage and poverty that explores the concept of
-    humanism and divinity.
+  content: An ancestral artform survives through the veneration of Hanuman, a hindu
+    deity with a monkey face and human body.
   image: "/uploads/screaming-kid.jpg"
 - content: 
   type: video
 - title: Synopsis
-  content: Dalip is a monkey charmer who belongs to a small community of ‘Madaris’,
-    an ancestral occupation of training monkeys to act like humans. Eleven year old
-    Rohit belongs to a community of ‘Behrupiyas’, traditional impressionist who train
-    their kids to act like apes. Both these fringe communities survive under abject
-    poverty, tied firmly to their belief of a Hindu mythological deity Hanuman, Half
-    monkey-half human’, a symbol of selfless devotion and strength. Both convene to
-    perform at Hanuman temple. In a role reversal battle between animal as human and
-    human as animal, who would come out triumphant?
+  content: " Eleven year old Rohit belongs to a community of ‘Behrupiyas’, traditional
+    impressionist who train their kids to act like apes. The fringe community survives
+    under abject poverty, tied firmly to their belief of a Hindu mythological deity
+    Hanuman, Half monkey-half human’, a symbol of selfless devotion and strength. "
   image: "/uploads/god-synopsis.png"
 - title: Concept
-  content: The film draws parallels between the life of a captured monkey family,
-    20 year old Dharmendra, his 15 year old mate Hema and their offspring Isha. They
-    all travel from place to place with their human master Daleep. These animals dress
-    up and perform actions like humans for public amusement. Amidst all the frolic
-    lies the true reality of how they are being mistreated and trained. Their teeth
-    are taken out, they are starved out and are kept in an pathetic state in a flies
-    and mosquito infested area, tied to a rusted iron leash. On the other hand, we
-    follow a child from the Behrupiya (impressionist) community who dresses up like
-    a monkey and mimics the animal for public entertainment. The impressionist community
-    is in a dire state of being, safeguarding a thousand year old artform. The community
-    suffers with the lack of education and the coming generation is forced to be in
-    the state of poverty due to lack of an alternate skill. Without a proper rehabilitation,
-    they would continue to be in the chains of poverty.
+  content: |-
+    God on a Leash is the story of being held on a leash to the hands of faith, heritage and poverty through an excavation of the relation between humanism and divinity.
+    Eleven year old Rohit belongs to a community of ‘Behrupiyas’, traditional impressionists who train their children to act like apes. This fringe community survives under abject poverty, tied firmly to their belief in the power of a Hindu mythological deity 'Hanuman: half
+    monkey half human', a symbol of selfless devotion and strength.
+
+    The story follows Rohit, who wishes to become a policeman or doctor but is instead forced into the practice. In the end, he embodies the deity
+    and what it stands for - in more ways than one.
+    God on a Leash unearths the larger web of restrictive ideologies that twine our minds and bodies, connecting us in kinship to the trapped
+    figures populating this film’s artistic landscape.
+    I was acquainted with this cultural practice at a very young age and through this film, I attempted to observe and unravel the predicament
+    of a child tied on a emblematic leash of poverty, faith and heritage. I was personally moved by how the practice of veneration of a symbol of
+    strength unearths an unbreakable cycle of physical, social and material
+    oppression.
+
+    India is facing an increasing forms of religious radicalization. It is easy to forget what religion imbues for the disenfranchised. God on a Leash
+    strives to scratch the surface of what might appear a mere spectacle.
   image: "/uploads/god-concept.png"
   type: big
 - title: Director's Statement
-  content: God on a leash is a short documentary that was shot in my hometown of New
-    Delhi. I was acquainted to this cultural practice at a very young age and through
-    this documentary, I am finally able to unravel the intricacies of this culture.
-    We followed a Madari, who sat with his macaques and their o spring near a Hanuman
-    temple at North Campus. It seemed the baby’s future in chains was indomitable,
-    much like the o springs of the ancestral impressionists community. It created
-    a cruel euphemism about our ignorance, the way we choose to live our lives, follow
-    our traditions and practice our faith. The film is a window to a highly embellished
-    niche world with a contrastingly unembellished human experience.
+  content: "I was acquainted with this cultural practice at a very young age and through
+    this film, I attempted to observe and unravel the predicament of a child trapped
+    in a web of poverty, faith and heritage. I was personally moved by how the practice
+    of veneration of a symbol of strength unearths an unbreakable cycle of physical,
+    social and material oppression. \n\nI was also motivated by the idea of capturing
+    a rare insight into the lives of niche performers, pushed to the fringes of the
+    society. I experienced aspects of great profundity mixed with sorrow while capturing
+    the child get ready and perform on the streets. My attempt was to impart visceral
+    qualities of a rustic folk tale to the piece through the camera and sound work.
+    \n"
   image: "/uploads/god-director.png"
   type: split
 ---
