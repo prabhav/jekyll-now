@@ -13,14 +13,14 @@ images:
 - "/uploads/1.jpg"
 - "/uploads/12764876_460988900764585_2553551182647368736_o.jpg"
 sections:
-- title: Logline
-  content: An ancestral artform survives through the veneration of Hanuman, a hindu
-    deity with a monkey face and human body.
-  image: "/uploads/screaming-kid.jpg"
 - content: <iframe                      src="https://player.vimeo.com/video/300574303?color=fff&portrait=0"
     width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen
     allowfullscreen></iframe>
   type: video
+- title: Logline
+  content: An ancestral artform survives through the veneration of Hanuman, a hindu
+    deity with a monkey face and human body.
+  image: "/uploads/screaming-kid.jpg"
 - title: Synopsis
   content: " Eleven year old Rohit belongs to a community of ‘Behrupiyas’, traditional
     impressionist who train their kids to act like apes. The fringe community survives
