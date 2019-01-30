@@ -6,7 +6,7 @@ images:
   url: "#"
   text: The Kite
 - photo: "/uploads/3.jpg"
-  url: "#"
+  url: "#https://vimeo.com/300574303"
   text: God on a Leash
 - photo: "/uploads/2-a4ea13.jpg"
   url: "#"
@@ -44,10 +44,11 @@ images:
   url: 
   text: Abandon
 - photo: "/uploads/IMG_0346.jpg"
-  url: 
+  url: https://vimeo.com/300574303
   text: God on a Leash
 - photo: "/uploads/Screen%20Shot%202017-07-17%20at%209.00.30%20PM.png"
   url: 
   text: Welcome to America
 ---
 
+[](https://vimeo.com/300574303)
