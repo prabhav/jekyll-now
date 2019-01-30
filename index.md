@@ -9,7 +9,7 @@ images:
   url: http://www.varunchoprafilms.com/work/god-on-a-leash/
   text: God on a Leash
 - photo: "/uploads/2-a4ea13.jpg"
-  url: "#"
+  url: http://www.varunchoprafilms.com/work/abandon/
   text: Abandon
 - photo: "/uploads/Screen%20Shot%202017-07-14%20at%208.23.32%20PM%20(2).png"
   url: "#"
@@ -41,10 +41,10 @@ images:
   url: 
   text: Rupture
 - photo: "/uploads/1-25cc55.jpg"
-  url: 
+  url: http://www.varunchoprafilms.com/work/abandon/
   text: Abandon
 - photo: "/uploads/IMG_0346.jpg"
-  url: https://vimeo.com/300574303
+  url: http://www.varunchoprafilms.com/work/god-on-a-leash/
   text: God on a Leash
 - photo: "/uploads/Screen%20Shot%202017-07-17%20at%209.00.30%20PM.png"
   url: 
