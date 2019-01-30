@@ -22,7 +22,7 @@ Born and raised in New Delhi, Varun Chopra graduated from LMU School of Film and
 
 # Press & Interviews
 
-![51_Outlook.png](/uploads/outlook1.png)
+![51_Outlook.png](/uploads/outlook1.png)[](https://www.outlookindia.com/newsscroll/meet-varun-chopra-an-independent-indian-voice-in-us-cinema/1128193)
 ![la-times-logo-transparent.png](/uploads/LATIMES1.png)
 ![TOI.png](/uploads/TOI1.png)
 ![LMU_LA_logo.png](/uploads/LMULA1.png)
