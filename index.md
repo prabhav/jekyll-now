@@ -6,7 +6,7 @@ images:
   url: "#"
   text: The Kite
 - photo: "/uploads/3.jpg"
-  url: "#/work/god-on-a-leash/"
+  url: "#work/god-on-a-leash/"
   text: God on a Leash
 - photo: "/uploads/2-a4ea13.jpg"
   url: "#"
